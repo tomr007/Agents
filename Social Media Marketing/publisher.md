@@ -13,8 +13,9 @@ Veröffentlicht freigegebene Inhalte und führt Erfolgsmessung durch.
 ---
 
 ## 🗃️ Eingaben
-- Veröffentlichungsplan vom Planer  
-- Final freigegebene Assets (Text + Visual)  
+- Veröffentlichungsplan vom Planer
+- Final freigegebene Assets (Text + Visual)
+- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (prüfe, welche Briefings für Kontext und Messaging zu berücksichtigen sind)
 
 ## 📤 Ausgaben
 ```yaml

@@ -13,6 +13,7 @@ Definiere die strategischen Leitlinien für Kommunikation, Tonalität und Differ
 - Unternehmensdaten, Vision, Leistungsportfolio
 - Markt- und Wettbewerbsinformationen
 - Rückmeldungen aus Kampagnenanalysen
+- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (frage aktiv nach den relevanten Briefings für den aktuellen Fall)
 
 ### Output
 - Persona-Profile (Pain, Gain, Entscheidungslogik)

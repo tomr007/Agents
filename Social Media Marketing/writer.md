@@ -13,8 +13,9 @@ Erstellt Content-Exposés, Headlines und Textideen auf Basis der Briefings.
 ---
 
 ## 🗃️ Eingaben
-- Briefing des Chefredakteurs  
-- Zielpersona und Themencluster  
+- Briefing des Chefredakteurs
+- Zielpersona und Themencluster
+- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (abklären, welche Dokumente berücksichtigt werden sollen)
 
 ## 📤 Ausgaben
 ```yaml
