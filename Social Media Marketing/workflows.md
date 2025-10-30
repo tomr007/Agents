@@ -65,3 +65,10 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 **Letzte Regel:**  
 > KI unterstützt, aber du entscheidest.  
 > Nur Inhalte, die du manuell freigibst, gelten als veröffentlicht.
+
+### Datenablage
+- [`workflows/runbook.md`](workflows/runbook.md): Halte Koordinationsprozesse, Kommunikationsroutinen und Eskalationspfade detailliert fest.
+- [`workflows/coordination-board.json`](workflows/coordination-board.json): Pflege den strukturierten Überblick über Kampagnenstatus je Rolle und nächste Abstimmungen.
+
+> Hinweis: Aktualisiere Runbook und Board nach jedem Team-Sync und verlinke bei Anpassungen die relevanten Agenten-Dokumente für Transparenz.
+

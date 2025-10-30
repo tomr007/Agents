@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "description": "Prozessübersicht über laufende Kampagnen und deren Status je Agentenrolle.",
+    "usage": [
+      "Füge jede Kampagne als Objekt in 'campaigns' ein.",
+      "Nutze die Felder innerhalb von 'status_by_role', um Übergaben transparent zu machen.",
+      "Aktualisiere 'next_sync' mit dem Datum des nächsten Abstimmungs-Calls."
+    ]
+  },
+  "campaigns": [
+    {
+      "id": "WF-0001",
+      "name": "Beispielkampagne",
+      "status_by_role": {
+        "strategist": "Richtlinien finalisiert",
+        "planner": "Briefings erstellt",
+        "designer": "Assets in Review",
+        "writer": "Copy freigegeben",
+        "chief-editor": "Review geplant",
+        "publisher": "Terminierung vorbereitet"
+      },
+      "next_sync": "YYYY-MM-DD",
+      "risks": [""],
+      "notes": "Zusätzliche Hinweise für die Koordination"
+    }
+  ]
+}

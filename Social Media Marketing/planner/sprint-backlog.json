@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "description": "Backlog strukturierter Aufgaben, die aus der Strategie abgeleitet wurden.",
+    "usage": [
+      "Jede Aufgabe benötigt ein eindeutiges Feld 'id'.",
+      "Nutze 'status' mit den Werten 'open', 'in_progress', 'blocked', 'done'.",
+      "Pflege 'handoff_notes', um Kontext für Designer, Writer oder Publisher bereitzustellen."
+    ]
+  },
+  "tasks": [
+    {
+      "id": "PLN-0001",
+      "title": "Beispielaufgabe",
+      "owner": "planner",
+      "due_date": "YYYY-MM-DD",
+      "status": "open",
+      "dependent_on": [""],
+      "handoff_notes": "Relevante Hinweise für das nächste Teammitglied"
+    }
+  ]
+}

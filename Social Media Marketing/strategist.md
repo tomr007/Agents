@@ -19,3 +19,10 @@ Definiere die strategischen Leitlinien für Kommunikation, Tonalität und Differ
 - Halte Klarheit über Zielgruppen, nicht über Formate.
 - Gib Richtung, nicht Lösung vor.
 - Aktualisiere regelmäßig Personas und Strategiedokumente.
+
+### Datenablage
+- [`strategist/datenlog.md`](strategist/datenlog.md): Führe hier das langfristige Strategiejournal mit Personas, Positionierungsentscheidungen und offenen Fragen. Neue Einträge immer mit Datum und klaren To-dos versehen.
+- [`strategist/persona-index.json`](strategist/persona-index.json): Pflege strukturierte Persona-Daten für Abgleiche mit Planner und Writer. Aktualisiere IDs und Zeitstempel bei Änderungen.
+
+> Hinweis: Synchronisiere wichtige Entscheidungen wöchentlich mit dem Planner und dokumentiere sie im Datenlog, bevor sie operationalisiert werden.
+

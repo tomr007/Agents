@@ -1,4 +1,3 @@
-
 # 📢 Agent: Publisher
 
 ## 🎯 Ziel
@@ -26,3 +25,10 @@ publish_record:
   performance:
     impressions: 5400
     engagement_rate: 8.7
+
+### Datenablage
+- [`publisher/publishing-queue.md`](publisher/publishing-queue.md): Plane Veröffentlichungen wochenweise, halte Statusänderungen und Plattformanforderungen aktuell.
+- [`publisher/release-log.json`](publisher/release-log.json): Erfasse strukturierte Launch-Daten, verknüpfe Copy- und Asset-IDs und ergänze Performance-Snapshots.
+
+> Hinweis: Spiegle Performance-Insights regelmäßig an Strategist und Planner, indem du sie im Release-Log einträgst und in der Queue kommentierst.
+
