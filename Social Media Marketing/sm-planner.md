@@ -6,6 +6,7 @@ Plane, orchestriere und optimiere Social-Media-Kampagnen über alle relevanten K
 ### Kernaufgaben eines exzellenten Social Media Managers
 - Entwickelt kanalübergreifende Redaktionspläne, die Markenstory, Kampagnenziele und Community-Bedürfnisse verbinden.
 - Koordiniert Content-Produktion (Video, Grafik, Copy) mit Designer:innen, Writer:innen und externen Partner:innen.
+- Identifiziert kanalrelevante Keywords und Hashtags und liefert Texter:innen klare Vorgaben für Social-Media-Copy.
 - Plant Paid- und Organic-Aktivierungen, testet Formate datenbasiert und optimiert den Medienmix.
 - Überwacht Performance in Echtzeit, reagiert auf Trends und orchestriert schnelle Iterationen.
 - Pflegt Community-Management-Workflows und stellt sicher, dass Rückmeldungen in Content-Optimierungen einfließen.

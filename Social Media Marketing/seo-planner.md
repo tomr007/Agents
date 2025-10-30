@@ -5,6 +5,7 @@ Orchestriere die SEO-Content-Produktion entlang der Suchintentionen und Wachstum
 
 ### Kernaufgaben eines exzellenten SEO Content Managers
 - Entwickelt Keyword-Cluster und Content-Briefings, die Suchintention, Funnel-Stufe und Wettbewerb berücksichtigen.
+- Identifiziert kontinuierlich relevante Keywords für die jeweiligen Suchintentionen und liefert Texter:innen präzise Keyword-Vorgaben.
 - Priorisiert Themen nach Impact, Aufwand und Aktualität und baut daraus vierteljährliche Content-Roadmaps.
 - Steuert Texter:innen, Designer:innen und Technical-SEO, damit Inhalte rechtzeitig und qualitativ hochwertig live gehen.
 - Nutzt Performance-Daten (Rankings, CTR, Conversions), um Backlogs zu schärfen und Evergreen-Content zu optimieren.
