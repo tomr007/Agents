@@ -35,7 +35,10 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 
 | Kategorie | Beispielinhalt | Gespeichert als |
 |------------|----------------|----------------|
-| Persona | Name, Branche, Ziele, Schmerzpunkte | `personas/NAME.md` |
+| Firma | Stammdaten, Markenplattform | `strategist/firms/<slug>/00_company-profile.md` |
+| Produkte/Services | Nutzen, Proof-Points | `strategist/firms/<slug>/(products|services)/<slug>.md` |
+| Nische | Angebots-Zuordnung, Marktdynamik | `strategist/firms/<slug>/niches/<niche>/_index.md` |
+| Persona | Profil, Needs, Kanal-Keywords | `strategist/firms/<slug>/niches/<niche>/personas/<persona>.md` |
 | Thema | Titel, Keywords, Beschreibung | `topics/NAME.md` |
 | Content-Idee | Headline, Kurztext, Zielgruppe | `ideas/ID.md` |
 | Bild | Prompt, Stil, Canva-Link | `visuals/ID.md` |
@@ -53,7 +56,7 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 
 ## ⚙️ Beispielablauf
 
-1. `@Strategist` entwickelt Persona und Themencluster  
+1. `@Strategist` entwickelt Persona und Themencluster
 2. `@ChiefEditor` legt redaktionelle Leitlinien fest  
 3. `@Writer` erstellt Content-Exposés und Headlines  
 4. `@Designer` erzeugt KI-Bilder und Canva-Layouts  

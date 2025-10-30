@@ -9,13 +9,24 @@
   },
   "personas": [
     {
-      "id": "sample-persona",
+      "id": "firm-niche-persona",
       "display_name": "Platzhalter Persona",
-      "segment": "Kurzbeschreibung des Zielsegments",
-      "pain_points": [""],
-      "gain_creators": [""],
+      "firm_id": "firm-slug",
+      "niche_id": "niche-slug",
+      "linked_offers": {
+        "products": ["product-slug"],
+        "services": ["service-slug"]
+      },
+      "needs_summary": "Kurzbeschreibung der Jobs-to-be-done",
+      "primary_needs": [""],
       "decision_drivers": [""],
-      "preferred_channels": [""],
+      "channel_keywords": {
+        "seo": [""],
+        "social": [""],
+        "ads": [""],
+        "email": [""],
+        "other": []
+      },
       "last_updated": "YYYY-MM-DD"
     }
   ]
