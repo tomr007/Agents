@@ -10,7 +10,12 @@
   "campaigns": [
     {
       "id": "WF-0001",
+      "firm_id": "firm-slug",
       "name": "Beispielkampagne",
+      "primary_offers": {
+        "products": ["product-slug"],
+        "services": []
+      },
       "status_by_role": {
         "strategist": "Richtlinien finalisiert",
         "planner": "Briefings erstellt",
@@ -19,6 +24,7 @@
         "chief-editor": "Review geplant",
         "publisher": "Terminierung vorbereitet"
       },
+      "niches_in_scope": ["niche-slug"],
       "next_sync": "YYYY-MM-DD",
       "risks": [""],
       "notes": "Zusätzliche Hinweise für die Koordination"
