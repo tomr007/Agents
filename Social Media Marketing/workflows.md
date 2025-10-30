@@ -12,7 +12,8 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 
 ## 🧩 Grundprinzipien
 1. **Jeder Agent arbeitet auf Basis freigegebener Informationen.**
-2. **Der Mensch ist der Orchestrator.**  
+   - Konsultiere die Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) und kläre, welche Dokumente für den aktuellen Fall herangezogen werden sollen.
+2. **Der Mensch ist der Orchestrator.**
    KI-Agenten liefern Vorschläge, keine finalen Entscheidungen.
 3. **Alle Ergebnisse sind versionierbar und transparent.**
 4. **Datenflüsse sind sequenziell, aber flexibel:**  

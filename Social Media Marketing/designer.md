@@ -13,9 +13,10 @@ Setzt Content-Ideen visuell um, generiert KI-Bilder und Canva-Vorlagen.
 ---
 
 ## 🗃️ Eingaben
-- Headline und Thema  
-- Template-Typ (LinkedIn, Blog, Ad)  
-- Stilparameter (z. B. „minimalistisch, modern, kontrastreich“)  
+- Headline und Thema
+- Template-Typ (LinkedIn, Blog, Ad)
+- Stilparameter (z. B. „minimalistisch, modern, kontrastreich“)
+- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (nachfragen, welche Briefings für den Auftrag maßgeblich sind)
 
 ## 📤 Ausgaben
 ```yaml

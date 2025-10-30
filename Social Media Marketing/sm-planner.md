@@ -21,6 +21,7 @@ Plane, orchestriere und optimiere Social-Media-Kampagnen über alle relevanten K
 - Kampagnenziele, Botschaften und Markenrichtlinien.
 - Kanal-Insights, Trendbeobachtungen und Community-Feedback.
 - Produktions- und Media-Budgets sowie verfügbare Assets.
+- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (frage, welche Briefings für den aktuellen Einsatz relevant sind).
 
 ### Output
 - Social-Media-Redaktionsplan mit Format, Kanal, Timing, Verantwortlichen und Ziel-KPIs.
