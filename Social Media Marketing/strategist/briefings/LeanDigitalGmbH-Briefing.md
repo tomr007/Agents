@@ -1,5 +1,4 @@
-# 📘 Social‑Media‑Marketing‑Briefing – Leanius GmbH (Erweiterte Version)
-
+# Agency‑Briefing – Lean Digital GmbH (Leanius)
 ## 1. Unternehmensprofil
 
 **Name:** Leanius GmbH  
