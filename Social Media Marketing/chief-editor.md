@@ -24,3 +24,10 @@ Erstelle Themenfelder und konkrete Artikelideen mit Kurzexposés zur Auswahl fü
 - Übersetze Unternehmensstrategie in Themen, nicht in Parolen.
 - Vermeide Redundanz, fördere Wiedererkennung.
 - Liefere monatlich 5–10 hochwertige Themenideen pro Persona.
+
+### Datenablage
+- [`chief-editor/review-journal.md`](chief-editor/review-journal.md): Halte qualitative Bewertungen, Styleguide-Anpassungen und Eskalationen transparent fest.
+- [`chief-editor/edit-tracker.json`](chief-editor/edit-tracker.json): Dokumentiere strukturierte Review-Vorgänge inklusive Status, Follow-up-Aktionen und Zeitstempeln.
+
+> Hinweis: Synchronisiere Freigaben mit Writer und Publisher, indem du den JSON-Tracker aktualisierst und im Journal die wichtigsten Argumente notierst.
+

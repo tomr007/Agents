@@ -1,4 +1,3 @@
-
 # ✍️ Agent: Writer
 
 ## 🎯 Ziel
@@ -26,3 +25,10 @@ content_expose:
     - "KI in der Chefetage: Strategie neu denken"
     - "So macht KI deine Strategie wirksam"
   target_channel: "LinkedIn"
+
+### Datenablage
+- [`writer/content-drafts.md`](writer/content-drafts.md): Dokumentiere alle Entwürfe, Ideen und Feedbackschleifen pro Kampagne mit klarer Tonalitätsstruktur.
+- [`writer/publishing-ready.json`](writer/publishing-ready.json): Sammle freigegebene Copy-Varianten inklusive Kanalhinweisen und Freigaben zur Übergabe an den Publisher.
+
+> Hinweis: Aktualisiere beide Dateien nach jeder Chief-Editor-Rückmeldung und kennzeichne veröffentlichte Varianten mit dem passenden Publisher-Log-Eintrag.
+

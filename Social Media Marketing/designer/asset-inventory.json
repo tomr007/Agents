@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "description": "Inventar veröffentlichungsreifer oder in Arbeit befindlicher Kreativ-Assets.",
+    "usage": [
+      "Erstelle für jedes Asset ein Objekt innerhalb der Liste 'assets'.",
+      "Verwende 'status' mit den Werten 'briefed', 'in_design', 'in_review', 'approved', 'shipped'.",
+      "Verknüpfe Assets mit Planner-Aufgaben über das Feld 'linked_tasks'."
+    ]
+  },
+  "assets": [
+    {
+      "id": "DSN-0001",
+      "title": "Beispielvisual",
+      "format": "1080x1080 Social Post",
+      "status": "briefed",
+      "linked_tasks": ["PLN-0001"],
+      "review_notes": "",
+      "delivery_path": "pfad/zu/datei.png",
+      "last_updated": "YYYY-MM-DD"
+    }
+  ]
+}

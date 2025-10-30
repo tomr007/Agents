@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "description": "Logbuch veröffentlichter Inhalte inklusive Timing, Kanal und Performance-Indikatoren.",
+    "usage": [
+      "Jeder Eintrag repräsentiert einen einzelnen Post oder eine Veröffentlichung.",
+      "Fülle 'performance_snapshot' mit den wichtigsten Metriken nach Kampagnenende.",
+      "Synchronisiere 'writer_reference' und 'asset_reference' mit den IDs aus Writer und Designer."
+    ]
+  },
+  "releases": [
+    {
+      "id": "PUB-0001",
+      "date": "YYYY-MM-DD",
+      "channel": "Instagram",
+      "writer_reference": "WRT-0001",
+      "asset_reference": "DSN-0001",
+      "status": "scheduled",
+      "performance_snapshot": {
+        "reach": null,
+        "engagement_rate": null,
+        "ctr": null
+      },
+      "notes": "Kurzfeedback zum Launch"
+    }
+  ]
+}

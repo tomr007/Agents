@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "description": "Sammlung freigegebener Textbausteine, die an den Publisher übergeben werden.",
+    "usage": [
+      "Jeder Eintrag repräsentiert eine Veröffentlichungsvariante.",
+      "Nutze 'approved_by' für den Namen des Chief Editors, der die Freigabe erteilt hat.",
+      "Pflege 'channel_requirements', um Publisher-spezifische Hinweise zu übergeben."
+    ]
+  },
+  "entries": [
+    {
+      "id": "WRT-0001",
+      "title": "Beispielcopy",
+      "body": "Hier steht der freigegebene Text.",
+      "channel": "LinkedIn",
+      "tone": "professionell",
+      "approved_by": "chief-editor",
+      "channel_requirements": "max. 300 Zeichen",
+      "last_updated": "YYYY-MM-DD"
+    }
+  ]
+}

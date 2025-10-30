@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "description": "Strukturierte Ablage der aktiven Personas. Jede Persona wird als Objekt mit eindeutiger ID geführt.",
+    "usage": [
+      "Füge neue Personas als weitere Objekte in 'personas' hinzu.",
+      "Verwende konsistente IDs (slug) für Referenzen in anderen Dokumenten.",
+      "Aktualisiere den Zeitstempel 'last_updated' bei jeder Änderung."
+    ]
+  },
+  "personas": [
+    {
+      "id": "sample-persona",
+      "display_name": "Platzhalter Persona",
+      "segment": "Kurzbeschreibung des Zielsegments",
+      "pain_points": [""],
+      "gain_creators": [""],
+      "decision_drivers": [""],
+      "preferred_channels": [""],
+      "last_updated": "YYYY-MM-DD"
+    }
+  ]
+}

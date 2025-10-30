@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "description": "Historie bearbeiteter Inhalte inklusive Review-Status und verantwortlicher Personen.",
+    "usage": [
+      "Jeder Eintrag repräsentiert einen Review-Vorgang.",
+      "Nutze 'status' mit den Werten 'pending', 'changes_requested', 'approved'.",
+      "Halte 'follow_up_actions' für Aufgaben fest, die an andere Rollen zurückgehen."
+    ]
+  },
+  "reviews": [
+    {
+      "id": "CE-0001",
+      "asset_reference": "WRT-0001",
+      "reviewer": "chief-editor",
+      "status": "pending",
+      "submitted_at": "YYYY-MM-DD",
+      "approved_at": "",
+      "follow_up_actions": [""],
+      "notes": "Kurze Zusammenfassung der wichtigsten Anmerkungen"
+    }
+  ]
+}
