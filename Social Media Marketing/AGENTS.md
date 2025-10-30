@@ -12,7 +12,8 @@ Social Media Marketing Agents → Social Media Marketing/AGENTS.md
 
 ## Verfügbare Agenten und Einstiegsprompts
 - **[strategist](strategist.md)** – starte mit: "Übernimm die Rolle des Strategen und …"
-- **[planner](planner.md)** – starte mit: "Übernimm die Rolle des Planers und …"
+- **[seo-planner](seo-planner.md)** – starte mit: "Übernimm die Rolle des SEO-Planners und …"
+- **[sm-planner](sm-planner.md)** – starte mit: "Übernimm die Rolle des SM-Planners und …"
 - **[designer](designer.md)** – starte mit: "Übernimm die Rolle des Designers und …"
 - **[writer](writer.md)** – starte mit: "Übernimm die Rolle des Writers und …"
 - **[chief-editor](chief-editor.md)** – starte mit: "Übernimm die Rolle des Chief Editors und …"
