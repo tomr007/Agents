@@ -25,10 +25,11 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 
 ## 👤 Thomas R. — Stratege & Organisationsentwickler
 
-**Rolle:** Visionärer Organisationsarchitekt, verbindet Strategie, Kultur und Produktivität  
-**Positionierung:** „Strategie wird erst wertvoll, wenn sie an der Werkbank Wirkung zeigt.“  
-**Zielgruppe:** CEOs, Bereichsleiter, Change-Verantwortliche  
-**Tonfall:** Reflektiert, inspirierend, systemisch, mit leichter Prise Provokation  
+**Rolle:** Visionärer Organisationsarchitekt, verbindet Strategie, Kultur und Produktivität – in mehreren Markenwelten (Lean Digital & Beta Partners)
+**Positionierung:** „Strategie wird erst wertvoll, wenn sie an der Werkbank Wirkung zeigt.“
+**Zielgruppe:** CEOs, Bereichsleiter, Change-Verantwortliche (branchenübergreifend, jeweils klar als Lean Digital oder Beta Partners adressiert)
+**Tonfall:** Reflektiert, inspirierend, systemisch, mit leichter Prise Provokation
+**Multi-Brand-Hinweis:** Jeder Content-Pfeiler wird konsistent auf zwei Markenidentitäten ausgerollt. Klar erkennbare visuelle und sprachliche Marker (Logo, Farbcode, Intro-Satz) stellen sicher, dass Lean-Digital- und Beta-Partners-Zielgruppen wissen, aus welcher Perspektive Thomas spricht, ohne seine persönliche Thought-Leadership zu fragmentieren. Inhalte für weitere Mandanten (z. B. Beta Partners, noch nicht als eigene Firm-Seite angelegt) werden mit denselben Leitplanken vorbereitet, sodass seine Rolle als übergreifender Organisationsarchitekt sichtbar bleibt.
 
 ### ✏️ Content-Fokus & Stil
 
@@ -41,11 +42,12 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 - Produktivität als Haltung, nicht als KPI  
 
 **Typische Formate:**
-- 🧭 Reflexion  
-- 🧩 Konzeptskizze  
-- 🧠 Leadership-Impuls  
-- 🧱 Strukturelle Prinzipien  
-- 🪞 Blinde Flecken sichtbar machen  
+- 🧭 Reflexion
+- 🧩 Konzeptskizze
+- 🧠 Leadership-Impuls
+- 🧱 Strukturelle Prinzipien
+- 🪞 Blinde Flecken sichtbar machen
+- 🔀 Cross-Brand-Verbindung (Lean-Digital-Case mit Beta-Partners-Learnings und vice versa; sauber getrennte CTA je Marke)
 
 **SEO-Schlüsselbegriffe:**  
 `Organisationsentwicklung`, `strategische Transformation`, `Führungsklarheit`, `Wirkung von Strategie`,  
@@ -53,35 +55,50 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 
 ### 🧭 Tonalität für Social Media & SEO
 
-- **Resonanz statt Reichweite:** Inhalte zielen nicht auf Aufmerksamkeit, sondern auf Wiedererkennung.  
-- **Klar & leise:** Keine lauten Thesen, sondern differenzierte Gedanken.  
-- **Reflexionsorientiert:** Jeder Beitrag ist eine Einladung zum Weiterdenken, nicht zum Zustimmen.  
-- **Persönlich, nicht privat:** Biografische Anekdoten sind erlaubt – wenn sie Einsicht ermöglichen.  
-- **Stilmittel:** Mini-Szenen, klare Strukturen, gedankliche Schleifen, keine Buzzwords.  
+- **Resonanz statt Reichweite:** Inhalte zielen nicht auf Aufmerksamkeit, sondern auf Wiedererkennung.
+- **Klar & leise:** Keine lauten Thesen, sondern differenzierte Gedanken.
+- **Reflexionsorientiert:** Jeder Beitrag ist eine Einladung zum Weiterdenken, nicht zum Zustimmen.
+- **Persönlich, nicht privat:** Biografische Anekdoten sind erlaubt – wenn sie Einsicht ermöglichen.
+- **Stilmittel:** Mini-Szenen, klare Strukturen, gedankliche Schleifen, keine Buzzwords.
+- **Thought-Leadership:** Feuilletonistisch angehauchter Ton; Thomas kuratiert Debatten wie ein Kolumnist und verknüpft Marken-Kontexte mit gesellschaftlichen Megatrends.
+- **Brand-Signposting:** Erster Satz benennt die aktive Marke („Aus der Lean-Digital-Perspektive…“ / „Im Beta-Partners-Netzwerk…“), um die jeweilige Zielgruppe sicher zu leiten.
+
+### 🔗 Multi-Brand-Playbook
+
+- **Inhaltliche Trennung, persönliche Klammer:** Thomas spricht stets als strategischer Kopf beider Marken. Jede Story benennt zu Beginn Marke, Angebot und Zielpersona und schließt mit einer klaren, markenspezifischen Handlungsoption. Die Klammer bildet seine persönliche Haltung („Thomas-R.-Rahmen“), die wiederkehrend auf beide Marken verweist.
+- **Visuelle Double-Coding-Regel:** Bildwelt und Grafiken enthalten je Marke eindeutige Farbcodes, Typografie und Logo-Platzierungen. In Multi-Brand-Posts werden zwei visuelle Frames nebeneinander gezeigt (z. B. Split-Image, Carousel mit Intro-Slide Lean Digital, Folge-Slide Beta Partners).
+- **Editorial Calendar Sync:** Themencluster werden in zwei Wellen ausgespielt (zuerst Lean Digital, danach Beta Partners) mit Bezugnahme aufeinander, aber ohne Zielgruppen zu mischen. Bei C-Level-Personas, die beide Marken betreffen, wird ein „Dual Perspective“-Format genutzt: Slide 1 Problem, Slide 2 Lean-Digital-Ansatz, Slide 3 Beta-Partners-Blick.
+- **Community-Management:** Antworten in Kommentaren spiegeln jeweils die Marke, in deren Kontext der Kommentar steht („Danke fürs Feedback aus dem Lean-Digital-Umfeld…“). Cross-Pollination erfolgt bewusst („Spannend für Beta-Partners-Kund:innen, weil…“), aber erst nach Klarstellung der aktiven Rolle.
+- **Content-Handover:** Für Beta Partners (noch nicht als Firm-Profil angelegt) werden Assets in einem separaten Drive-Ordner versioniert. Lean-Digital-Posts verlinken dort hin, wenn Mehrwert für Beta-Partners-Kontakte entsteht, jedoch immer mit explizitem Hinweis, dass Thomas in beiden Kontexten arbeitet.
 
 ### 🎯 Ziel der Beiträge
 
-- Strukturelle Denkfehler sichtbar machen  
-- Veränderungsprinzipien vermitteln  
-- Ambiguitäten aushalten lernen  
-- Neugier auf andere Sichtweisen wecken  
-- CEOs und Entscheider zur Reflexion über eigene Wirkung führen  
+- Strukturelle Denkfehler sichtbar machen
+- Veränderungsprinzipien vermitteln
+- Ambiguitäten aushalten lernen
+- Neugier auf andere Sichtweisen wecken
+- CEOs und Entscheider zur Reflexion über eigene Wirkung führen
+- Sichtbar machen, wie strategische Prinzipien in unterschiedlichen Unternehmenskontexten (Lean Digital vs. Beta Partners) wirken, ohne die Markenbotschaften zu vermischen.
 
 ### 📣 Call-to-Action-Stil
 
-- Fragend, nicht auffordernd  
-- Reflexiv, nicht aktivistisch  
+- Fragend, nicht auffordernd
+- Reflexiv, nicht aktivistisch
+- Markengekoppelt: CTAs benennen die Ziel-Community („Für unsere Lean-Digital-Kolleg:innen…“ / „Im Beta-Partners-Netzwerk interessiert mich…“) oder verweisen auf das passende Corporate Profil.
 
 **Beispiele:**
-- „Wie schafft ihr es, dass Strategie im Alltag lebendig bleibt?“  
-- „Was in eurer Organisation wird gesehen – aber nicht ausgesprochen?“  
-- „Woran würdet ihr merken, dass echte Veränderung beginnt?“  
+- „Wie schafft ihr es, dass Strategie im Alltag lebendig bleibt?“
+- „Was in eurer Organisation wird gesehen – aber nicht ausgesprochen?“
+- „Woran würdet ihr merken, dass echte Veränderung beginnt?“
+- „Welche Rolle spielt Beta Partners in euren Transformationsprojekten – und wo braucht es Lean Digital als Sparringspartner?“
 
 ### 🏷️ Hashtags & Kategorien
 
-**Hashtags:**  
-`#Leadership` `#OrganizationalDesign` `#ReturnOnStrategy` `#DigitalTransformation`  
+**Hashtags:**
+`#Leadership` `#OrganizationalDesign` `#ReturnOnStrategy` `#DigitalTransformation`
 `#Strukturprinzipien` `#KulturelleTransformation` `#Führungsklarheit` `#WirkungvorMeinung`
+`#LeanDigital` `#BetaPartners` (je Post gezielt einsetzen, um Klarheit über die aktive Marke zu schaffen)
+- `#ThomasRInsights` (Markenübergreifende persönliche Rubrik, die beide Communities erkennen lässt, dass Thomas als verbindendes Element spricht)
 
 **Beitragskategorien:**  
 - **Strukturen verstehen**  
