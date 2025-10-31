@@ -9,11 +9,13 @@
 **Zielgruppe:** Mittelständische Produktionsunternehmen (200–1500 Mitarbeiter) mit Fokus auf Fertigung, Maschinenbau, Automotive‑Zulieferung, Elektronik, Kunststoffverarbeitung und Metallbearbeitung.  
 **Kernregion:** DACH (Deutschland, Österreich, Schweiz), perspektivisch EU‑Markt.
 
-**Selbstverständnis**  
+**Selbstverständnis**
 Leanius ist Partner und Wegbegleiter für produzierende Unternehmen, die ihre Wettbewerbsfähigkeit sichern und ihre Produktivität durch die Verbindung von Lean‑Methodik, Digitalisierung und Organisationsentwicklung nachhaltig steigern wollen. Wir denken Produktionssysteme ganzheitlich – von der strategischen Zielsetzung über die operative Umsetzung bis zur digitalen Abbildung. Unser Ansatz vereint Methodenwissen, Change‑Kompetenz und technologische Umsetzungskraft.
+Alles beginnt mit einem stabilen Prozess. Deshalb glauben wir daran, den Fluss der Wertschöpfung sichtbar zu machen, bevor Technologien skaliert werden. Wir glauben an die Kraft funktionierender Prozesse und übersetzen diese Haltung in jedes Beratungsmandat.
 
-**Positionierung**  
+**Positionierung**
 Leanius steht für echte Produktions‑ und Prozessexzellenz. Leanius steigert messbar die Produktivität mittelständischer Werke, indem Prozesse konsequent optimiert, Digitalisierung strategisch gedacht und Organisationen dazu befähigt werden, langfristig selbst Verbesserungen voranzutreiben. Der Ansatz ist praxisorientiert, skalierbar und menschenzentriert.
+Komplexe Produktion? Wir bringen sie ins Fließen. Produktivität ist die Basis echter Wettbewerbsfähigkeit – und genau deshalb ist sie kein Selbstzweck, sondern der Schlüssel zur Zukunftsfähigkeit industrieller Standorte.
 
 ### 1.2 Kommunikationsziel
 
@@ -28,9 +30,11 @@ Die Social‑Media‑Kommunikation soll eine Themenwelt etablieren, die **Leaniu
 - Leanius als Brückenbauer zwischen Strategie, Produktion und IT positionieren.
 - Sichtbar machen, dass Leanius Produktivität als Zukunftsstrategie versteht – nicht als Kostenprogramm.
 - Eine emotionale Verbindung schaffen: *„Mit Leanius wird Arbeit wieder fließend, einfach und produktiv.“*
+- Wenn Arbeit wieder fließt, entsteht Produktivität von selbst.
 - Pragmatismus: vom Nutzen her denken, nicht von der Technologie.
 - Respekt: das Bestehende würdigen und darauf aufbauen.
 - Partnerschaft: auf Augenhöhe – als Teil des Teams, nicht als externe Instanz.
+- Wir challengen Annahmen – mit Respekt für das Bestehende.
 
 **Tonalität**
 
@@ -38,6 +42,7 @@ Die Social‑Media‑Kommunikation soll eine Themenwelt etablieren, die **Leaniu
 - Keine Buzzwords, sondern prägnante Sprache mit Substanz.
 - Respektvoll und inspirierend – auf Augenhöhe mit erfahrenen Produktionsverantwortlichen.
 - **Visuell:** reduziert, industriell, klar; Betonung auf Wirkung, Präzision und Vertrauen.
+- Weniger Theorie. Mehr Wirkung auf dem Shopfloor.
 
 ### 1.4 Zielgruppen & Personas
 
@@ -81,7 +86,7 @@ Diese Tabelle zeigt, wie Leanius seine Versprechen konkret beweist und welche Er
 
 | Signature Move | Beschreibung | Storytelling‑Ansatz |
 |---|---|---|
-| **Lean‑Digital Pilot (4–6 Wochen)** | Einstieg über klar definierte Produktionsbereiche mit Datenintegration und echtem Prototyp. Keine Konzepte, sondern funktionierende Lösungen. | *„Vom Whiteboard zur Produktivität in sechs Wochen.“* |
+| **Lean‑Digital Pilot (4–6 Wochen)** | Einstieg über klar definierte Produktionsbereiche mit Datenintegration und echtem Prototyp. Keine Konzepte, sondern funktionierende Lösungen. | *„Vom Whiteboard zur Wirkung in sechs Wochen.“* |
 | **Reality‑First Process Design** | Prozessanalyse gemeinsam mit Mitarbeitenden und Führungskräften. Fokus: Wie soll der Prozess wirklich laufen? | *„Die besten Prozesse entstehen am Ort der Wertschöpfung.“* |
 | **Headless Rapid Prototyping** | Aufbau individueller, leichtgewichtiger Interfaces auf Basis des Leanius‑Frameworks. | *„Software, die sich an den Menschen anpasst – nicht umgekehrt.“* |
 | **First‑Principles Thinking** | Tiefes Hinterfragen von Gewohnheiten und Systemlogiken. | *„Warum ist das so? Und was, wenn es besser geht?“* |
@@ -109,6 +114,21 @@ Die Content‑Pfeiler definieren, welche Themen die Signature Moves immer wieder
 - **Typografie:** klar, geometrisch, modern – vermittelt Struktur und Präzision.
 - **Motive:** Zusammenarbeit, Prozesse im Fluss, Mensch und Maschine als Partner.
 - **Visual Tone:** ruhig, konzentriert, glaubwürdig.
+
+### 2.4 Signature Call-outs (Wording-Leitplanke)
+
+Diese 10 Kernsätze sollen in jeder Kommunikation als wiederkehrende sprachliche Anker genutzt werden. Platziere sie in Headlines, Copy, Video‑Scriptings und Interview‑Snippets – gerne mehrfach und in Kombination mit den jeweiligen Signature Moves.
+
+- **Alles beginnt mit einem stabilen Prozess.** → Nutze den Satz als Opener, um Lean als Startpunkt für jede Optimierung zu verankern.
+- **Komplexe Produktion? Wir bringen sie ins Fließen.** → Ideal für Pain-Point-Posts und Ads, die Unruhe in Fertigungssystemen adressieren.
+- **Produktivität ist die Basis echter Wettbewerbsfähigkeit.** → Verwende ihn für Executive-Kommentare und Strategie-Statements.
+- **Weniger Theorie. Mehr Wirkung auf dem Shopfloor.** → Perfekt für Praxisbeispiele, Workshop-Recaps und Event-Teaser.
+- **Digitalisierung ohne Systembruch.** → Setze den Claim bei Tech-Posts und in Produktbeschreibungen ein.
+- **Wir challengen Annahmen – mit Respekt für das Bestehende.** → Nutze den Satz, wenn Change-Kompetenz und Kulturarbeit thematisiert werden.
+- **Software, die sich an den Menschen anpasst – nicht umgekehrt.** → Positioniere ihn in UX-Stories, Tool-Demos und Recruiting-Formaten.
+- **Vom Whiteboard zur Wirkung in sechs Wochen.** → Hebe damit Speedboats, Pilotprojekte und Proof-of-Value-Cases hervor.
+- **Wenn Arbeit wieder fließt, entsteht Produktivität von selbst.** → Verwende ihn als emotionalen Abschluss in Keynotes oder Case Studies.
+- **Wir glauben an die Kraft funktionierender Prozesse.** → Nutze ihn für Thought-Leadership, Manifest-Texte und Corporate Branding.
 
 ## 3. Messgrößen & Praxis
 
