@@ -30,8 +30,6 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 **Zielgruppe:** CEOs, Bereichsleiter, Change-Verantwortliche  
 **Tonfall:** Reflektiert, inspirierend, systemisch, mit leichter Prise Provokation  
 
----
-
 ### ✏️ Content-Fokus & Stil
 
 **Inhalte mit Substanz:**
@@ -53,8 +51,6 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 `Organisationsentwicklung`, `strategische Transformation`, `Führungsklarheit`, `Wirkung von Strategie`,  
 `Reifegradmodelle`, `Strukturprinzipien`, `Transformation in Unternehmen`, `Change wirksam gestalten`, `systemisches Organisationsdesign`
 
----
-
 ### 🧭 Tonalität für Social Media & SEO
 
 - **Resonanz statt Reichweite:** Inhalte zielen nicht auf Aufmerksamkeit, sondern auf Wiedererkennung.  
@@ -63,8 +59,6 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 - **Persönlich, nicht privat:** Biografische Anekdoten sind erlaubt – wenn sie Einsicht ermöglichen.  
 - **Stilmittel:** Mini-Szenen, klare Strukturen, gedankliche Schleifen, keine Buzzwords.  
 
----
-
 ### 🎯 Ziel der Beiträge
 
 - Strukturelle Denkfehler sichtbar machen  
@@ -72,8 +66,6 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 - Ambiguitäten aushalten lernen  
 - Neugier auf andere Sichtweisen wecken  
 - CEOs und Entscheider zur Reflexion über eigene Wirkung führen  
-
----
 
 ### 📣 Call-to-Action-Stil
 
@@ -84,8 +76,6 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 - „Wie schafft ihr es, dass Strategie im Alltag lebendig bleibt?“  
 - „Was in eurer Organisation wird gesehen – aber nicht ausgesprochen?“  
 - „Woran würdet ihr merken, dass echte Veränderung beginnt?“  
-
----
 
 ### 🏷️ Hashtags & Kategorien
 
@@ -100,8 +90,7 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 - **Gedankenskizzen**  
 - **Was Organisationen oft übersehen**
 
-
----
+--- 
 
 ## 👤 Thomas S. — Lean Grand Seigneur / Mentor
 
