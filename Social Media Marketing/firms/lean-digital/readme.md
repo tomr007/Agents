@@ -1,6 +1,7 @@
 # 📂 Lean Digital GmbH – Dokumentenübersicht
 
 > Dieses Readme listet ausschließlich die aktuell verfügbaren Dateien für den Kundenarbeitsraum.
+Zur Aktualisierung, lies das Verzeichnis in dem Du Dich befindest und Überarbeite die Dokumentenbeschreibung und Anweisungen für die Agenten. 
 
 ## Stammdaten
 - **Firma:** Lean Digital GmbH
