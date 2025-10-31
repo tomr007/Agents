@@ -16,7 +16,7 @@ Setzt Content-Ideen visuell um, generiert KI-Bilder und Canva-Vorlagen.
 - Headline und Thema
 - Template-Typ (LinkedIn, Blog, Ad)
 - Stilparameter (z. B. „minimalistisch, modern, kontrastreich“)
-- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (nachfragen, welche Briefings für den Auftrag maßgeblich sind)
+- Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – nachfragen, welche Briefings für den Auftrag maßgeblich sind)
 
 ## 📤 Ausgaben
 ```yaml

@@ -5,7 +5,7 @@ Dieses Runbook beschreibt den Ablauf zur Koordination der Agenten, Monitoring de
 
 ## Pflegehinweise
 1. Lege für jede aktive Kampagne einen Abschnitt `## Kampagne: <Firma> – <Kampagnenname>` an.
-2. Halte dort Checklisten für Kick-off, Zwischen-Reviews und Retro fest und verlinke auf den jeweiligen Firmenarbeitsraum unter `strategist/firms/<slug>/`.
+2. Halte dort Checklisten für Kick-off, Zwischen-Reviews und Retro fest und verlinke auf den jeweiligen Firmenarbeitsraum unter `firms/<slug>/`.
 3. Vermerke Prozessverbesserungen unter **Lessons Learned** und verlinke auf relevante Agenten-Dokumente.
 
 ## Kommunikationsmatrix

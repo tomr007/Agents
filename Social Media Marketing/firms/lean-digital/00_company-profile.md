@@ -28,6 +28,6 @@
 
 ## Verknüpfte Dokumente
 - `01_brand-platform.md`
-- `products/`
-- `services/`
-- `niches/`
+- `product-<slug>.md`
+- `service-<slug>.md`
+- `niche-<slug>.md`
