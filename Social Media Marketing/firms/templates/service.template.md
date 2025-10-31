@@ -16,8 +16,8 @@
 - Retainer / Projekt / Hybrid
 
 ## Verknüpfte Nischen & Personas
-- `niches/<niche-slug>/_index.md`
-- `niches/<niche-slug>/personas/<persona-slug>.md`
+- `niche-<slug>.md`
+- `persona-<slug>.md`
 
 ## Content-Hinweise
 - Einwände & Antworten

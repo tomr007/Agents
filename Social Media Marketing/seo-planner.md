@@ -21,7 +21,7 @@ Orchestriere die SEO-Content-Produktion entlang der Suchintentionen und Wachstum
 - Freigegebene Keyword-Strategie und Content-Pillars.
 - Redaktionskapazitäten sowie Verfügbarkeiten der beteiligten Rollen.
 - Performance-Reports (Search Console, Analytics, Rank Tracker).
-- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (frage nach den einzubeziehenden Briefings je Fall).
+- Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – frage nach den einzubeziehenden Briefings je Fall).
 
 ### Output
 - SEO-Content-Roadmap mit Zeitplan, Verantwortlichen und Ziel-Metriken.

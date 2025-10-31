@@ -30,9 +30,9 @@
 - Call-to-Action Hinweise
 
 ## Verknüpfte Angebote & Nischen
-- `../../products/<product-slug>.md`
-- `../../services/<service-slug>.md`
-- `../_index.md`
+- `product-<slug>.md`
+- `service-<slug>.md`
+- `niche-<slug>.md`
 
 ## Letztes Update
 - **Datum:** YYYY-MM-DD

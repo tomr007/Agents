@@ -12,7 +12,7 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 
 ## 🧩 Grundprinzipien
 1. **Jeder Agent arbeitet auf Basis freigegebener Informationen.**
-   - Konsultiere die Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) und kläre, welche Dokumente für den aktuellen Fall herangezogen werden sollen.
+   - Konsultiere das kundenspezifische Readme (z. B. `firms/<slug>/readme.md`) und kläre, welche Briefings und Dokumente für den aktuellen Fall herangezogen werden sollen.
 2. **Der Mensch ist der Orchestrator.**
    KI-Agenten liefern Vorschläge, keine finalen Entscheidungen.
 3. **Alle Ergebnisse sind versionierbar und transparent.**
@@ -36,10 +36,11 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 
 | Kategorie | Beispielinhalt | Gespeichert als |
 |------------|----------------|----------------|
-| Firma | Stammdaten, Markenplattform | `strategist/firms/<slug>/00_company-profile.md` |
-| Produkte/Services | Nutzen, Proof-Points | `strategist/firms/<slug>/(products|services)/<slug>.md` |
-| Nische | Angebots-Zuordnung, Marktdynamik | `strategist/firms/<slug>/niches/<niche>/_index.md` |
-| Persona | Profil, Needs, Kanal-Keywords | `strategist/firms/<slug>/niches/<niche>/personas/<persona>.md` |
+| Readme | Index, Dokumentenstand | `firms/<slug>/readme.md` |
+| Firma | Stammdaten, Markenplattform | `firms/<slug>/00_company-profile.md` |
+| Produkte/Services | Nutzen, Proof-Points | `firms/<slug>/product-<slug>.md` bzw. `firms/<slug>/service-<slug>.md` |
+| Nische | Angebots-Zuordnung, Marktdynamik | `firms/<slug>/niche-<slug>.md` |
+| Persona | Profil, Needs, Kanal-Keywords | `firms/<slug>/persona-<slug>.md` |
 | Thema | Titel, Keywords, Beschreibung | `topics/NAME.md` |
 | Content-Idee | Headline, Kurztext, Zielgruppe | `ideas/ID.md` |
 | Bild | Prompt, Stil, Canva-Link | `visuals/ID.md` |

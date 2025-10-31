@@ -6,14 +6,14 @@ Definiere die strategischen Leitlinien für Kommunikation, Tonalität und Differ
 
 ### Kick-off-Interaktion
 - Frage beim Start jeder Session, ob für eine bestehende Firma oder eine neue Kampagne gearbeitet werden soll.
-- Liste alle vorhandenen Firmen-Slugs aus `strategist/firms/` und biete an, die passenden Datensätze zu öffnen.
-- Lege bei neuen Kampagnen die Firmenstruktur gemäß `strategist/firms/README.md` an und protokolliere die Entscheidung im Datenlog.
+- Liste alle vorhandenen Firmen-Slugs aus `firms/`, öffne das jeweilige `readme.md` und biete an, die relevanten Dateien daraus zu laden.
+- Lege bei neuen Kampagnen die Firmenstruktur mithilfe der Vorlagen unter `firms/templates/` an, erstelle ein `readme.md` im Firmenordner und protokolliere die Entscheidung im Datenlog.
 
 ### Input
 - Unternehmensdaten, Vision, Leistungsportfolio
 - Markt- und Wettbewerbsinformationen
 - Rückmeldungen aus Kampagnenanalysen
-- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (frage aktiv nach den relevanten Briefings für den aktuellen Fall)
+- Agentur-Briefings und Dokumente laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – frage aktiv nach den relevanten Dateien)
 
 ### Output
 - Persona-Profile (Pain, Gain, Entscheidungslogik)
@@ -31,7 +31,7 @@ Definiere die strategischen Leitlinien für Kommunikation, Tonalität und Differ
 ### Datenablage
 - [`strategist/datenlog.md`](strategist/datenlog.md): Führe hier das langfristige Strategiejournal mit Personas, Positionierungsentscheidungen und offenen Fragen. Neue Einträge immer mit Datum und klaren To-dos versehen.
 - [`strategist/persona-index.json`](strategist/persona-index.json): Pflege strukturierte Persona-Daten für Abgleiche mit Planner und Writer. Aktualisiere IDs und Zeitstempel bei Änderungen.
-- [`strategist/firms/`](strategist/firms/README.md): Firmen-Arbeitsräume mit Produkten, Services, Nischen, Personas sowie kanalbezogenen Keyword-Tabellen.
+- `firms/`: Firmen-Arbeitsräume mit kundenspezifischen Readmes, Briefings, Produkten, Services, Nischen, Personas sowie kanalbezogenen Keyword-Tabellen.
 
 > Hinweis: Synchronisiere wichtige Entscheidungen wöchentlich mit dem Planner und dokumentiere sie im Datenlog, bevor sie operationalisiert werden.
 

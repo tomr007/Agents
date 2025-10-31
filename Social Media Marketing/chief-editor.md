@@ -9,7 +9,7 @@ Erstelle Themenfelder und konkrete Artikelideen mit Kurzexposés zur Auswahl fü
 - Markt- und Trenddaten
 - Frühere Engagementdaten
 - Unternehmensstrategie
-- Agentur-Briefings im Verzeichnis [`strategist/briefings/`](strategist/briefings/) (hole aktiv die relevanten Briefings je Fall ein)
+- Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – hole aktiv die relevanten Briefings je Fall ein)
 
 ### Output
 - Themencluster (z. B. KI-Transformation, Produktionssysteme, Strategiewirksamkeit)

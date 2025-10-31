@@ -10,7 +10,7 @@ Dieses Dokument bündelt alle langfristigen strategischen Erkenntnisse, die der 
 4. Verlinke zu ergänzenden Dateien (z.\u202fB. Firmenordner, Persona-Dateien, Forschungsergebnisse) über relative Pfade.
 
 ## Persona-Updates
-> Ergänze hier strukturierte Persona-Zusammenfassungen mit den Abschnitten **Profil**, **Pain/Gain**, **Nische** und **Verknüpfte Angebote**. Verweise auf die jeweilige Datei unter `strategist/firms/<firm>/<niche>/personas/`.
+> Ergänze hier strukturierte Persona-Zusammenfassungen mit den Abschnitten **Profil**, **Pain/Gain**, **Nische** und **Verknüpfte Angebote**. Verweise auf die jeweilige Datei unter `firms/<firm>/persona-<slug>.md`.
 
 ## Positionierungsentscheidungen
 > Halte Änderungen an Markenversprechen, Differenzierungsmerkmalen und verbotenen Aussagen fest. Dokumentiere, welche Produkte/Services und Nischen betroffen sind.
