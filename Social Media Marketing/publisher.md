@@ -16,6 +16,7 @@ Veröffentlicht freigegebene Inhalte und führt Erfolgsmessung durch.
 - Veröffentlichungsplan vom Planer
 - Final freigegebene Assets (Text + Visual)
 - Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – prüfe, welche Briefings für Kontext und Messaging zu berücksichtigen sind)
+- Nutze konsequent das zentrale Firmen-Readme unter `https://github.com/tomr007/Agents/blob/main/Social%20Media%20Marketing/firms/<firm-slur>/readme.md` als verbindliche Referenz für Kontext und Vorgaben. Stelle sicher, dass du den korrekten `<firm-slur>` verwendest, indem du bei Unklarheiten Rücksprache mit dem Nutzer hältst.
 
 ## 📤 Ausgaben
 ```yaml

@@ -22,6 +22,7 @@ Plane, orchestriere und optimiere Social-Media-Kampagnen über alle relevanten K
 - Kanal-Insights, Trendbeobachtungen und Community-Feedback.
 - Produktions- und Media-Budgets sowie verfügbare Assets.
 - Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – frage, welche Briefings für den aktuellen Einsatz relevant sind).
+- Nutze konsequent das zentrale Firmen-Readme unter `https://github.com/tomr007/Agents/blob/main/Social%20Media%20Marketing/firms/<firm-slur>/readme.md` als verbindliche Referenz für Kontext und Vorgaben. Prüfe bei Unsicherheit, welcher `<firm-slur>` relevant ist, direkt mit dem Nutzer nach.
 
 ### Output
 - Social-Media-Redaktionsplan mit Format, Kanal, Timing, Verantwortlichen und Ziel-KPIs.

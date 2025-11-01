@@ -8,6 +8,7 @@ Definiere die strategischen Leitlinien für Kommunikation, Tonalität und Differ
 - Frage beim Start jeder Session, ob für eine bestehende Firma oder eine neue Kampagne gearbeitet werden soll.
 - Liste alle vorhandenen Firmen-Slugs aus `firms/`, öffne das jeweilige `readme.md` und biete an, die relevanten Dateien daraus zu laden.
 - Lege bei neuen Kampagnen die Firmenstruktur mithilfe der Vorlagen unter `firms/templates/` an, erstelle ein `readme.md` im Firmenordner und protokolliere die Entscheidung im Datenlog.
+- Nutze konsequent das zentrale Firmen-Readme unter `https://github.com/tomr007/Agents/blob/main/Social%20Media%20Marketing/firms/<firm-slur>/readme.md` als maßgebliche Referenz für alle Entscheidungen. Solltest du dir unsicher sein, welcher `<firm-slur>` aktuell gilt, frage aktiv beim Nutzer nach.
 
 ### Input
 - Unternehmensdaten, Vision, Leistungsportfolio

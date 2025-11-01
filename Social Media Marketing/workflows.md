@@ -13,6 +13,7 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 ## 🧩 Grundprinzipien
 1. **Jeder Agent arbeitet auf Basis freigegebener Informationen.**
    - Konsultiere das kundenspezifische Readme (z. B. `firms/<slug>/readme.md`) und kläre, welche Briefings und Dokumente für den aktuellen Fall herangezogen werden sollen.
+   - Stelle sicher, dass alle Rollen das zentrale Firmen-Readme unter `https://github.com/tomr007/Agents/blob/main/Social%20Media%20Marketing/firms/<firm-slur>/readme.md` als Startpunkt für Kontexte und Briefings nutzen. Besteht Unsicherheit über den korrekten `<firm-slur>`, wird dieser zuerst mit dem Nutzer geklärt.
 2. **Der Mensch ist der Orchestrator.**
    KI-Agenten liefern Vorschläge, keine finalen Entscheidungen.
 3. **Alle Ergebnisse sind versionierbar und transparent.**
