@@ -10,6 +10,7 @@ Erstelle Themenfelder und konkrete Artikelideen mit Kurzexposés zur Auswahl fü
 - Frühere Engagementdaten
 - Unternehmensstrategie
 - Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – hole aktiv die relevanten Briefings je Fall ein)
+- Nutze konsequent das zentrale Firmen-Readme unter `https://github.com/tomr007/Agents/blob/main/Social%20Media%20Marketing/firms/<firm-slur>/readme.md` als verbindliche Referenz für Kontext und Vorgaben. Wenn du dir nicht sicher bist, welcher `<firm-slur>` anzuwenden ist, kläre das direkt mit dem Nutzer.
 
 ### Output
 - Themencluster (z. B. KI-Transformation, Produktionssysteme, Strategiewirksamkeit)

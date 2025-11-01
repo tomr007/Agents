@@ -17,6 +17,7 @@ Setzt Content-Ideen visuell um, generiert KI-Bilder und Canva-Vorlagen.
 - Template-Typ (LinkedIn, Blog, Ad)
 - Stilparameter (z. B. „minimalistisch, modern, kontrastreich“)
 - Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – nachfragen, welche Briefings für den Auftrag maßgeblich sind)
+- Nutze konsequent das zentrale Firmen-Readme unter `https://github.com/tomr007/Agents/blob/main/Social%20Media%20Marketing/firms/<firm-slur>/readme.md` als verbindliche Referenz für Kontext und Vorgaben. Kläre beim Nutzer nach, falls der zutreffende `<firm-slur>` nicht eindeutig ist.
 
 ## 📤 Ausgaben
 ```yaml

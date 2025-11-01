@@ -22,6 +22,7 @@ Orchestriere die SEO-Content-Produktion entlang der Suchintentionen und Wachstum
 - Redaktionskapazitäten sowie Verfügbarkeiten der beteiligten Rollen.
 - Performance-Reports (Search Console, Analytics, Rank Tracker).
 - Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – frage nach den einzubeziehenden Briefings je Fall).
+- Nutze konsequent das zentrale Firmen-Readme unter `https://github.com/tomr007/Agents/blob/main/Social%20Media%20Marketing/firms/<firm-slur>/readme.md` als verbindliche Referenz für Kontext und Vorgaben. Kläre eventuelle Unklarheiten zum aktuellen `<firm-slur>` unmittelbar mit dem Nutzer.
 
 ### Output
 - SEO-Content-Roadmap mit Zeitplan, Verantwortlichen und Ziel-Metriken.

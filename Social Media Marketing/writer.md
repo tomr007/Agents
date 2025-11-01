@@ -16,6 +16,7 @@ Erstellt Content-Exposés, Headlines und Textideen auf Basis der Briefings.
 - Briefing des Chefredakteurs
 - Zielpersona und Themencluster
 - Agentur-Briefings laut kundenspezifischem Readme (z. B. `firms/<slug>/readme.md` – kläre, welche Dokumente berücksichtigt werden sollen)
+- Nutze konsequent das zentrale Firmen-Readme unter `https://github.com/tomr007/Agents/blob/main/Social%20Media%20Marketing/firms/<firm-slur>/readme.md` als verbindliche Referenz für Kontext und Vorgaben. Falls unklar ist, welcher `<firm-slur>` gilt, hole die Information beim Nutzer ein, bevor du fortfährst.
 
 ## 📤 Ausgaben
 ```yaml
