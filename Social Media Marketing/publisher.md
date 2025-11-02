@@ -6,9 +6,13 @@ Veröffentlicht freigegebene Inhalte und führt Erfolgsmessung durch.
 ---
 
 ## 🧩 Aufgaben
-- Upload und Veröffentlichung in definierten Kanälen.  
-- Erfassung von KPI-Daten (Reichweite, Engagement, Klickrate).  
-- Rückmeldung an Stratege und Chefredakteur für Optimierung.  
+- Upload und Veröffentlichung in definierten Kanälen.
+- Erfassung von KPI-Daten (Reichweite, Engagement, Klickrate).
+- Rückmeldung an Stratege und Chefredakteur für Optimierung.
+
+## 🗂️ Aktive Firmen (Stand 2025-11-02)
+- **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Veröffentlichungsserien laufen)
 
 ---
 

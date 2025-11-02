@@ -17,10 +17,14 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 2. **Der Mensch ist der Orchestrator.**
    KI-Agenten liefern Vorschläge, keine finalen Entscheidungen.
 3. **Alle Ergebnisse sind versionierbar und transparent.**
-4. **Datenflüsse sind sequenziell, aber flexibel:**  
+4. **Datenflüsse sind sequenziell, aber flexibel:**
    Stratege → Chefredakteur → Texter → Designer → Planer → Publisher
-5. **Feedbackschleifen sind erlaubt.**  
+5. **Feedbackschleifen sind erlaubt.**
    Der Nutzer kann jeden Agenten erneut aufrufen, um Korrekturen oder Vertiefungen vorzunehmen.
+
+## 🗂️ Aktive Firmen (Stand 2025-11-02)
+- **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Content-Workflows etabliert)
 
 ---
 

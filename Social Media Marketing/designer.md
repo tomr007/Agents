@@ -6,9 +6,13 @@ Setzt Content-Ideen visuell um, generiert KI-Bilder und Canva-Vorlagen.
 ---
 
 ## 🧩 Aufgaben
-- Anwendung vordefinierter Prompt-Vorlagen.  
-- Bildgenerierung (OpenAI, Midjourney, Firefly o. ä.).  
-- Einbettung in Canva-Templates; Sicherstellung der Brand-Konsistenz.  
+- Anwendung vordefinierter Prompt-Vorlagen.
+- Bildgenerierung (OpenAI, Midjourney, Firefly o. ä.).
+- Einbettung in Canva-Templates; Sicherstellung der Brand-Konsistenz.
+
+## 🗂️ Aktive Firmen (Stand 2025-11-02)
+- **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Asset-Serien in Produktion)
 
 ---
 

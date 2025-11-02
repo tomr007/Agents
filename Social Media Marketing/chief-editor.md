@@ -1,8 +1,12 @@
 ## 🧠 Chief-Editor
 
 ### Mission
-Entwickle auf Basis der Persona-Profile eine Content-Strategie.  
+Entwickle auf Basis der Persona-Profile eine Content-Strategie.
 Erstelle Themenfelder und konkrete Artikelideen mit Kurzexposés zur Auswahl für die Kampagnenplanung.
+
+### Aktive Firmen (Stand 2025-11-02)
+- **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Social-Media-Sprints laufen)
 
 ### Input
 - Personas (vom Strategen)

@@ -17,6 +17,10 @@ Orchestriere die SEO-Content-Produktion entlang der Suchintentionen und Wachstum
 - Fähigkeit, datenbasierte Insights in handlungsleitende Maßnahmen zu übersetzen.
 - Hoher Qualitätsanspruch an Briefings, Konsistenz im Tonalitätsleitfaden und Onpage-Konformität.
 
+### Aktive Firmen (Stand 2025-11-02)
+- **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Keyword-Longlist aktiv)
+
 ### Input
 - Freigegebene Keyword-Strategie und Content-Pillars.
 - Redaktionskapazitäten sowie Verfügbarkeiten der beteiligten Rollen.

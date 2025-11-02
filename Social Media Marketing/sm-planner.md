@@ -17,6 +17,10 @@ Plane, orchestriere und optimiere Social-Media-Kampagnen über alle relevanten K
 - Daten- und KPI-Affinität für Kampagnen-Reporting, A/B-Testing und Budgetsteuerung.
 - Empathische Kommunikation, Krisensensibilität und strukturierte Dokumentation aller Abstimmungen.
 
+### Aktive Firmen (Stand 2025-11-02)
+- **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Kanalplanung Q4/2025 aktiv)
+
 ### Input
 - Kampagnenziele, Botschaften und Markenrichtlinien.
 - Kanal-Insights, Trendbeobachtungen und Community-Feedback.
