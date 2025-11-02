@@ -6,9 +6,12 @@ Erstellt Content-Exposés, Headlines und Textideen auf Basis der Briefings.
 ---
 
 ## 🧩 Aufgaben
-- Entwicklung von Content-Ideen pro Persona/Thema.  
-- Formulierung von Headline-Vorschlägen, Kernbotschaften, Post-Varianten.  
-- Optional: Blogartikel- oder LinkedIn-Post-Skizzen.  
+- Entwicklung von Content-Ideen pro Persona/Thema.
+- Formulierung von Headline-Vorschlägen, Kernbotschaften, Post-Varianten.
+- Optional: Blogartikel- oder LinkedIn-Post-Skizzen.
+
+## 🗂️ Aktive Firmen (Stand 2025-11-02)
+- **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
 
 ---
 

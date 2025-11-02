@@ -27,4 +27,7 @@ Social Media Marketing Agents → Social Media Marketing/AGENTS.md
 - **[publisher](publisher.md)** – starte mit: "Übernimm die Rolle des Publishers und …"
 - **[workflows](workflows.md)** – starte mit: "Übernimm die Rolle des Workflow-Koordinators und …"
 
+## Neue Firmenzugänge (Stand 2025-11-02)
+- **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner folgt)
+
 Jede Datei beschreibt Mission, Input, Output und Verhalten des Agenten. Binde bei Bedarf zusätzliche Kontextinformationen aus deinem Projekt ein, wenn du den Agenten ansprichst.
