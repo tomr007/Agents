@@ -25,6 +25,7 @@ Social Media Marketing Agents → Social Media Marketing/AGENTS.md
 - **[writer](writer.md)** – starte mit: "Übernimm die Rolle des Writers und …"
 - **[chief-editor](chief-editor.md)** – starte mit: "Übernimm die Rolle des Chief Editors und …"
 - **[publisher](publisher.md)** – starte mit: "Übernimm die Rolle des Publishers und …"
+- **[videographer](videographer.md)** – starte mit: "Übernimm die Rolle des Videographers und …"
 - **[workflows](workflows.md)** – starte mit: "Übernimm die Rolle des Workflow-Koordinators und …"
 
 ## Neue Firmenzugänge (Stand 2025-11-02)

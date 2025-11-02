@@ -1,0 +1,34 @@
+{
+  "_meta": {
+    "description": "Produktions- und Veröffentlichungsstatus für Video- und Fotoinhalte.",
+    "usage": [
+      "Lege für jedes Asset (Video, Loop, Still) ein Objekt in 'assets' an.",
+      "Nutze 'status' mit den Werten 'briefed', 'previs', 'rendering', 'in_review', 'approved', 'delivered'.",
+      "Verknüpfe Shot-Briefs über 'shot_id' und referenziere Planner- oder Publisher-Tickets unter 'linked_tasks'."
+    ]
+  },
+  "assets": [
+    {
+      "id": "VID-0001",
+      "title": "Launch Hero Reel",
+      "type": "video",
+      "format": "1080x1920 24fps",
+      "shot_id": "VID-0001",
+      "status": "briefed",
+      "linked_tasks": ["PLN-0004"],
+      "review_notes": "",
+      "deliverables": [
+        {
+          "kind": "video",
+          "path": "cloud://render/vid-0001/final.mp4"
+        },
+        {
+          "kind": "thumbnail",
+          "path": "cloud://render/vid-0001/thumb.png"
+        }
+      ],
+      "last_updated": "YYYY-MM-DD"
+    }
+  ]
+}
+
