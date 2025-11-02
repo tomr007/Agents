@@ -24,6 +24,7 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 
 ## 🗂️ Aktive Firmen (Stand 2025-11-02)
 - **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Content-Workflows etabliert)
 
 ---
 

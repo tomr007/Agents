@@ -19,6 +19,7 @@ Plane, orchestriere und optimiere Social-Media-Kampagnen über alle relevanten K
 
 ### Aktive Firmen (Stand 2025-11-02)
 - **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Kanalplanung Q4/2025 aktiv)
 
 ### Input
 - Kampagnenziele, Botschaften und Markenrichtlinien.

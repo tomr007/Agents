@@ -12,6 +12,7 @@ Erstellt Content-Exposés, Headlines und Textideen auf Basis der Briefings.
 
 ## 🗂️ Aktive Firmen (Stand 2025-11-02)
 - **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner noch offen)
+- **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Storylines in laufender Produktion)
 
 ---
 
