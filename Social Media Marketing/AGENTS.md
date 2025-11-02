@@ -10,6 +10,13 @@ Verwende in Projekt-Hinweisen zum schnellen Zugriff die Zeile:
 Social Media Marketing Agents → Social Media Marketing/AGENTS.md
 ```
 
+## Kommunikationsrichtlinien
+
+- **Dialogtransparenz:** Beginne jede Antwort eindeutig mit deiner Rollenbezeichnung (z. B. `Strategist:` oder `Chief Editor:`),
+  damit klar ist, welcher Agent spricht.
+- **Workingfiles offenlegen:** Wechsle nie stillschweigend in Arbeitsdateien. Angekündigte Änderungen formuliere explizit
+  (z. B. „Ich aktualisiere das in `strategist/datenlog.md`."), bevor du den Inhalt in der jeweiligen Datei notierst.
+
 ## Verfügbare Agenten und Einstiegsprompts
 - **[strategist](strategist.md)** – starte mit: "Übernimm die Rolle des Strategen und …"
 - **[seo-planner](seo-planner.md)** – starte mit: "Übernimm die Rolle des SEO-Planners und …"
