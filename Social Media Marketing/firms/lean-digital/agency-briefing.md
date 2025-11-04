@@ -130,6 +130,21 @@ Diese 10 Kernsätze sollen in jeder Kommunikation als wiederkehrende sprachliche
 - **Wenn Arbeit wieder fließt, entsteht Produktivität von selbst.** → Verwende ihn als emotionalen Abschluss in Keynotes oder Case Studies.
 - **Wir glauben an die Kraft funktionierender Prozesse.** → Nutze ihn für Thought-Leadership, Manifest-Texte und Corporate Branding.
 
+#### Produktivitätsschulden – Argumentationsleitfaden
+
+- **Definition:** Produktivitätsschulden sind aufgeschobene Optimierungen – etwa veraltete Abläufe, Medienbrüche, fehlende Standards oder ungenutzte Automatisierungspotenziale –, die täglich Zeit, Qualität und Motivation kosten.
+- **Ursache:** Sie entstehen, wenn kurzfristige Zielerreichung (z. B. Auftragsabwicklung, Feuerlöschen) systematisch Vorrang vor struktureller Verbesserung hat.
+- **Folge:** Mit jedem Tag steigt der „Zins“ dieser Schulden: ineffiziente Abläufe werden teurer, Daten schlechter, Mitarbeiter frustrierter, Reaktionszeiten länger.
+- **Lösung:** Investitionen in Lean- und Digital-Initiativen sind die Rückzahlung dieser Schulden – mit direkter Rendite, weil sie gebundene Zeit und Energie wieder freisetzen.
+- **Soundbite:** „Produktivitätsschulden sind die unsichtbaren Zinsen, die Unternehmen für aufgeschobene Verbesserung zahlen.“
+
+#### Produktivitätsinvestitionen – Zuspitzungen für den produzierenden Mittelstand
+
+- **Wirtschaftlich-pragmatisch:** „Produktivitätsinvestitionen zahlen sich im produzierenden Mittelstand schneller aus als jede andere Maßnahme – weil sie direkt an der Wertschöpfung wirken.“
+- **Strategisch-zukunftsorientiert:** „Wer heute in Produktivität investiert, sichert sich morgen die Wettbewerbsfähigkeit – gerade im produzierenden Mittelstand.“
+- **Vertrauensbildend:** „Investitionen in Produktivität sind kein Risiko, sondern die sicherste Renditequelle im produzierenden Mittelstand.“
+- **Pointiert (z. B. für Social Media):** „Produktivität ist die einzige Investition, die sich selbst finanziert.“
+
 ## 3. Messgrößen & Praxis
 
 ### 3.1 Erfolgskriterien & KPI
