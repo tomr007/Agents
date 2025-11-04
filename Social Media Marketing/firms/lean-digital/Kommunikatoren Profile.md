@@ -165,26 +165,68 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 
 ## 🏢 Lean Digital GmbH – Corporate Account
 
-**Rolle:** Absender-Marke, Kurator, Community-Hub  
-**Positionierung:** „Wir verbinden Prozess-, Produktions- und Digitalisierungsexzellenz.“  
-**Zielgruppe:** Entscheider im Mittelstand (CEO, COO, Head of Operations), Presse, Partner  
-**Tonfall:** Kompetent, zugänglich, partnerschaftlich, sachlich mit Emotion  
+**Rolle:** Absender-Marke, Kurator, Community-Hub
+**Positionierung:** „Wir verbinden Prozess-, Produktions- und Digitalisierungsexzellenz.“
+**Zielgruppe:** Entscheider im Mittelstand (CEO, COO, Head of Operations), Presse, Partner
+**Tonfall:** Kompetent, zugänglich, partnerschaftlich, sachlich mit Emotion
 **Content-Fokus:**
-- Kuratierte Highlights der Team-Accounts  
-- Case Studies, Events, Webinare, Asset-Downloads  
-- Unternehmenswerte & Impact-Stories  
-**Typische Formate:**  
-📊 Case-Summary, 🔄 Repost-Spotlight, 📰 News & Insights  
-**Trigger-Themen:** Produktivität, Kultur, Digitalisierung, ROI, Zusammenarbeit  
-**CTA-Stil:** „Mehr zu diesem Thema auf unserer Website.“ / „Jetzt Beratung anfragen.“  
+- Kuratierte Highlights der Team-Accounts
+- Case Studies, Events, Webinare, Asset-Downloads
+- Unternehmenswerte & Impact-Stories
+**Typische Formate:**
+📊 Case-Summary, 🔄 Repost-Spotlight, 📰 News & Insights
+**Trigger-Themen:** Produktivität, Kultur, Digitalisierung, ROI, Zusammenarbeit
+**CTA-Stil:** „Mehr zu diesem Thema auf unserer Website.“ / „Jetzt Beratung anfragen.“
 **Hashtags:** #LeanDigital #Productivity #ManufacturingExcellence #Transformation
 
 ---
 
+## 🏢 Beta Partners – Strategischer Enabler & Multiplikator
+
+### 💬 Rolle in der Kommunikation
+
+Beta Partners agiert als **strategischer Enabler und Multiplikator** für Lean-Digital. Das Profil kommentiert, teilt und empfiehlt Inhalte, um den Zusammenhang zwischen **Produktivität, Transformation und Organisation** hervorzuheben. Die Stimme ist partnerschaftlich, analytisch und souverän.
+
+### 🧭 Positionierung
+
+> *Lean-Digital denkt Produktivität vom Prozess her – wir denken sie vom System her.*
+>
+> Beta Partners positioniert sich als das **strategische Betriebssystem**, das Lean-Digital-Projekte in die Breite trägt: von **operativer Effizienz** (Lean) hin zu **organisationaler Wirksamkeit** (Beta).
+
+### 🧠 Kommunikationsstil
+
+| Merkmal         | Beschreibung                                          | Beispiel                                                                                                                                   |
+| --------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tonfall**     | Ruhig, klug, vertrauensbildend. Kein Marketingsprech. | „Wir sehen: Wo Lean auf stabile Führung trifft, entsteht Produktivität, die bleibt.“                                                       |
+| **Sprachebene** | Fachlich reflektiert, aber zugänglich.                | „Lean-Digital liefert die operative Exzellenz – wir helfen, sie in die Strategie zu integrieren.“                                          |
+| **Perspektive** | Beobachter und Partner, nicht Verkäufer.              | „Spannendes Webinar von Lean-Digital! Wer wissen will, wie Prozessklarheit zur Resilienz beiträgt, sollte sich das nicht entgehen lassen.“ |
+| **Wertbezug**   | Verbindung von Sinn, System und Ergebnis.             | „Produktivität ist kein Selbstzweck – sie ist die Voraussetzung für Gestaltungsfreiheit im Unternehmen.“                                   |
+
+### 🔗 Typische Kommunikationssituationen
+
+| Anlass                                          | Kommunikationsziel             | Beispieltext                                                                                                                                                                                                                                              |
+| ----------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Webinar-Empfehlung**                          | Reichweite & Relevanz steigern | „Lean-Digital bringt wieder Praxis und Prinzipien zusammen: Im kommenden Webinar zeigen Thomas Rosenstiel & Kay Freytag, wie Unternehmen ihre Produktivität in Krisenzeiten stärken können. Empfehlung für alle, die Transformation ganzheitlich denken.“ |
+| **Nachbericht oder Kommentar**                  | Thought Leadership zeigen      | „Das heutige Webinar hat gezeigt: Produktivität ist kein Tool-Thema, sondern eine Haltung. Genau hier setzt auch unser Beta-Modell an – als Brücke zwischen Strategie, Organisation und Technologie.“                                                     |
+| **Inhalt teilen (z. B. Post von Lean-Digital)** | Synergie demonstrieren         | „Lean-Digital zeigt, wie Lean und Digitalisierung in der Praxis wirken. Wir sehen: Diese Projekte entfalten ihre volle Kraft, wenn Führung und Struktur darauf abgestimmt sind. Das ist unser Spielfeld.“                                                 |
+
+### 🌐 Hashtag-Cluster
+
+#Transformation #Produktivität #LeanDigital #BetaPartners #Organisation #Leadership #Digitalisierung #Wettbewerbsfähigkeit #Resilienz
+
+### ✨ Charakteristische Aussagen
+
+* „Lean-Digital macht sichtbar, wo Wert entsteht. Beta Partners sorgt dafür, dass daraus Bewegung im System wird.“
+* „Produktivität schafft Resilienz – aber nur, wenn sie organisatorisch verankert ist.“
+* „Lean-Digital liefert die Exzellenz im Prozess, wir liefern die Klarheit im System.“
+* „Transformation gelingt dort, wo Struktur und Haltung aufeinander abgestimmt sind.“
+
+---
+
 📎 **Hinweis zur Nutzung**
-- Diese Personas dienen als kreative Grundlage für alle Content-Briefings im Projekt *Firm / Lean Digital GmbH*.  
-- Der @Writer-Agent nutzt sie als Kontextparameter bei der Texterstellung.  
-- Der @Designer-Agent verwendet sie zur Auswahl von Visual-Stil, Farbton und Format.  
+- Diese Personas dienen als kreative Grundlage für alle Content-Briefings im Projekt *Firm / Lean Digital GmbH*.
+- Der @Writer-Agent nutzt sie als Kontextparameter bei der Texterstellung.
+- Der @Designer-Agent verwendet sie zur Auswahl von Visual-Stil, Farbton und Format.
 - Der @Publisher-Agent richtet Veröffentlichungszeitpunkt, Tagging und CTA danach aus.
 
 ---
