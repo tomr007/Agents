@@ -34,8 +34,8 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 ### ✏️ Content-Fokus & Stil
 
 **Inhalte mit Substanz:**
-- Verbindung von Strategie, Führung & Exzellenz  
-- Return on Strategy (RoS), kulturelle Transformation  
+- Verbindung von Strategie, Führung & Exzellenz
+- Return on Strategy (RoS), kulturelle Transformation
 - Storytelling über Lernprozesse in Organisationen  
 - Wirkung von Struktur, Haltung und Kultur im Zusammenspiel  
 - Führungsklarheit & Reifegrade von Organisationen  
@@ -52,6 +52,14 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 **SEO-Schlüsselbegriffe:**  
 `Organisationsentwicklung`, `strategische Transformation`, `Führungsklarheit`, `Wirkung von Strategie`,  
 `Reifegradmodelle`, `Strukturprinzipien`, `Transformation in Unternehmen`, `Change wirksam gestalten`, `systemisches Organisationsdesign`
+
+### 🗣️ Signature Botschaften
+
+- **Produktivitätsschulden klar benennen:** „Produktivitätsschulden sind die unsichtbaren Zinsen auf aufgeschobene Verbesserung – jeden Tag zahlen wir mit Zeit, Energie und Motivation.“
+- **RoS als Wirkungsmesser:** „Return on Strategy zeigt sich erst, wenn Entscheidungen auf dem Shopfloor ankommen – alles andere bleibt PowerPoint-Rendite.“
+- **Strategie & Produktivität verbinden:** „Wir bauen Strategien so, dass sie Produktivitätsschulden tilgen und Freiräume für Wachstum schaffen.“
+- **Investitionssicherheit betonen:** „Investitionen in Produktivität sind die sicherste Renditequelle im produzierenden Mittelstand, weil sie direkt an der Wertschöpfung arbeiten.“
+- **Handlungsdruck rahmen:** „Wer Produktivitätsschulden stehen lässt, verspielt seinen RoS – jede aufgeschobene Verbesserung vergrößert die Lücke zwischen Strategie und Wirkung.“
 
 ### 🧭 Tonalität für Social Media & SEO
 
