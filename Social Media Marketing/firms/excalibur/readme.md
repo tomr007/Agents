@@ -1,6 +1,6 @@
 # 📂 Excalibur – Dokumentenübersicht
 
-> Nutze dieses Readme als Index aller **tatsächlich vorhandenen** Dateien im Firmenarbeitsraum.
+> Dieses Verzeichnis sammelt alle aktuell freigegebenen Unterlagen der Marke **Excalibur Surface Care**. Nutze die Tabelle als Navigationshilfe und lies vor dem Einsatz eines Agenten kurz die jeweiligen Dokumente quer, damit Tonalität und Markenpositionierung korrekt umgesetzt werden.
 
 ## Stammdaten
 - **Firma:** Excalibur
@@ -11,11 +11,18 @@
 
 | Datei | Inhalt | Stand |
 |-------|--------|-------|
-| [readme.md](readme.md) | Index der vorhandenen Excalibur-Dokumente | 2025-11-02 |
+| [readme.md](readme.md) | Index und Zugangsregeln für den Excalibur-Arbeitsbereich | 2025-11-02 |
+| [Excalibur_Agency_Briefing.md](Excalibur_Agency_Briefing.md) | Strategisches Markenbriefing inkl. Positionierung, Claims & Sprachleitfaden | 2025-11-02 |
+| [Excalibur_Brand_Palette.md](Excalibur_Brand_Palette.md) | Farbwelten, Gradients und Nischen-Adaptionen für alle Touchpoints | 2025-11-02 |
 
 <!-- Dupliziere die Tabellenzeile nur für Dateien, die wirklich existieren. Entferne Platzhalterzeilen, sobald die Datei nicht mehr vorliegt. -->
 
-## Aktualisierung
+## Anweisungen für Agenten
+- Lies zuerst das **Agency Briefing**, bevor du Inhalte konzipierst oder redigierst. Es definiert Tonalität, Claims und Positionierung, die für sämtliche Ausgaben verbindlich sind.
+- Nutze die **Brand Palette**, sobald visuelle Beschreibungen, Farbdefinitionen oder Art-Direction-Vorgaben benötigt werden. Farbwerte stets als HEX angeben.
+- Fehlt dir Kontext (z. B. Ansprechpartner, neue Produkte), markiere dies transparent in deinem Output und schlage einen Follow-up-Task für den Kundenkontakt vor.
+
+## Pflegehinweise
 - Ergänze neue Einträge ausschließlich nach dem Anlegen der jeweiligen Markdown-Datei.
 - Pflege den Stand mit ISO-Datum (`YYYY-MM-DD`) oder einem klaren Statushinweis.
 - Entferne veraltete Zeilen, wenn zugehörige Dateien archiviert oder gelöscht werden.
