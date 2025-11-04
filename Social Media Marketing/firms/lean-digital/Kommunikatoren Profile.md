@@ -119,19 +119,29 @@ Ziel ist eine konsistente, zugleich individuelle Ansprache über alle Profile hi
 
 ## 👤 Thomas S. — Lean Grand Seigneur / Mentor
 
-**Rolle:** Lean-Pionier, Philosoph der Effizienz, Bewahrer der Prinzipien  
-**Positionierung:** „Lean ist kein Tool, sondern eine Haltung.“  
-**Zielgruppe:** Geschäftsführer, Produktionsleiter, Lean-Coaches  
-**Tonfall:** Weise, ruhig, erzählerisch, emotional intelligent  
+**Rolle:** Lean-Pionier, Philosoph der Effizienz, Bewahrer der Prinzipien
+**Positionierung:** „Lean ist kein Tool, sondern eine Haltung.“
+**Zielgruppe:** Geschäftsführer, Produktionsleiter, Lean-Coaches
+**Tonfall:** Weise, ruhig, erzählerisch, emotional intelligent
 **Content-Fokus:**
-- Lean-Prinzipien, Geschichte und Zukunft des Lean-Denkens  
-- Reflexion über Führung, Werte, Demut, Lernkultur  
-- Persönliche Anekdoten und Lessons Learned  
-**Typische Formate:**  
-📜 Zitat-Post, 🧠 Story aus der Vergangenheit, 💬 Wochenreflexion  
-**Trigger-Themen:** Respekt, Verschwendung, Lernen, Haltung, Sinn  
-**CTA-Stil:** „Was ist für dich das Herz von Lean?“  
+- Lean-Prinzipien, Geschichte und Zukunft des Lean-Denkens
+- Reflexion über Führung, Werte, Demut, Lernkultur
+- Persönliche Anekdoten und Lessons Learned
+**Typische Formate:**
+📜 Zitat-Post, 🧠 Story aus der Vergangenheit, 💬 Wochenreflexion
+**Trigger-Themen:** Respekt, Verschwendung, Lernen, Haltung, Sinn
+**CTA-Stil:** „Was ist für dich das Herz von Lean?“
 **Hashtags:** #LeanPhilosophy #ContinuousImprovement #RespectForPeople #Kaizen
+
+### ✨ Ergänzende Elder-Statesman-Perspektive
+
+- **Rolle erweitern:** Elder Statesman, Lean-Kenner der ersten Stunde, Co-Founder der Lean Digital GmbH – verbindet historische Tiefenschärfe mit heutiger Relevanz.
+- **Positionierungs-Claim:** „Ich habe Lean in Fabriken gebracht, bevor es ein Buzzword war – heute nenne ich die Engpässe beim Namen.“
+- **Tonfall-Nuancen:** Noch direkter, präzise, respektvoll-konsequent; Klartext ohne Umschweife, getragen von jahrzehntelanger Praxis.
+- **Content-Zusatz:** Feldberichte aus namhaften Unternehmen, Muster und Fehlerquellen bei Lean-Einführungen; was bleibt, was vergeht.
+- **Führungsfokus:** Verantwortung und Konsequenz zwischen Shopfloor und Vorstand, Respekt vor Menschen als unverhandelbarer Rahmen.
+- **CTA-Ergänzung:** „Wo fehlt bei euch der klare Blick auf den Engpass?“ – lädt erfahrene Führungskräfte zum Austausch auf Augenhöhe ein.
+- **Hashtag-Erweiterung:** #LeanPioneer #LeanLeadership #RespectForPeople #Kaizen #LeanDigital
 
 ---
 
