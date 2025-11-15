@@ -12,7 +12,8 @@
 | Datei | Inhalt | Stand |
 |-------|--------|-------|
 | [readme.md](readme.md) | Index und Zugangsregeln für den Excalibur-Arbeitsbereich | 2025-11-02 |
-| [Excalibur_Agency_Briefing.md](Excalibur_Agency_Briefing.md) | Strategisches Markenbriefing inkl. Positionierung, Claims & Sprachleitfaden | 2025-11-02 |
+| [Agency-Briefing.md](Agency-Briefing.md) | Strategisches Markenbriefing inkl. Positionierung, Claims & Sprachleitfaden | 2025-11-02 |
+| [company-profile.md](company-profile.md) | Markenplattform mit Werten, Nutzenversprechen & Proof-Points | Template – befüllen |
 | [Excalibur_Brand_Palette.md](Excalibur_Brand_Palette.md) | Farbwelten, Gradients und Nischen-Adaptionen für alle Touchpoints | 2025-11-02 |
 
 <!-- Dupliziere die Tabellenzeile nur für Dateien, die wirklich existieren. Entferne Platzhalterzeilen, sobald die Datei nicht mehr vorliegt. -->

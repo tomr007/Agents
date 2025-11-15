@@ -27,7 +27,7 @@
 - [ ] Priorität 3
 
 ## Verknüpfte Dokumente
-- `01_brand-platform.md`
+- `company-profile.md`
 - `product-<slug>.md`
 - `service-<slug>.md`
 - `niche-<slug>.md`

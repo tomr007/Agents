@@ -11,8 +11,8 @@
 
 | Datei | Inhalt | Stand |
 |-------|--------|-------|
-| [00_company-profile.md](00_company-profile.md) | Stammdaten, Vision, Ansprechpartner, operative Eckdaten | Template – befüllen |
-| [01_brand-platform.md](01_brand-platform.md) | Markenwerte, Nutzenversprechen, Tonalität & Proof-Points | Template – befüllen |
+| [Agency-Briefing.md](Agency-Briefing.md) | Stammdaten, Vision, Ansprechpartner, operative Eckdaten | Template – befüllen |
+| [company-profile.md](company-profile.md) | Markenwerte, Nutzenversprechen, Tonalität & Proof-Points | Template – befüllen |
 | [research-log.md](research-log.md) | Quellen, Insights, Entscheidungen & Folgeaktionen | Template – fortschreiben |
 
 ## Aktualisierung
