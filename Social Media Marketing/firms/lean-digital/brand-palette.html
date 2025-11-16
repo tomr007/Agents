@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lean Digital – Brand Palette</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: "Inter", system-ui, -apple-system, sans-serif;
+      background: #f8fafc;
+      color: #0f172a;
+    }
+
+    body {
+      margin: 0;
+      padding: 32px;
+      line-height: 1.6;
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 2.25rem;
+    }
+
+    h2 {
+      margin-top: 2.5rem;
+      margin-bottom: 0.75rem;
+      font-size: 1.4rem;
+      color: #0f172a;
+    }
+
+    p.lead {
+      max-width: 720px;
+      margin-bottom: 1.25rem;
+      color: #334155;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+    }
+
+    .swatch {
+      border-radius: 12px;
+      background: white;
+      box-shadow: 0 8px 32px rgba(15, 23, 42, 0.12);
+      overflow: hidden;
+      border: 1px solid #e2e8f0;
+    }
+
+    .swatch .tone {
+      height: 96px;
+      border-bottom: 1px solid #e2e8f0;
+    }
+
+    .swatch .tone.gradient {
+      background: linear-gradient(90deg, var(--from), var(--to));
+    }
+
+    .swatch .tone span {
+      display: inline-block;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.72);
+      backdrop-filter: blur(10px);
+      margin: 10px;
+      font-size: 0.85rem;
+      color: #0f172a;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    }
+
+    .meta {
+      padding: 12px 14px 14px;
+    }
+
+    .meta .title {
+      font-weight: 700;
+      font-size: 1rem;
+      display: block;
+      margin-bottom: 2px;
+    }
+
+    .meta .hex {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      color: #0f172a;
+      font-size: 0.95rem;
+    }
+
+    .meta .desc {
+      margin-top: 6px;
+      color: #475569;
+      font-size: 0.95rem;
+    }
+
+    .section-note {
+      color: #475569;
+      margin: 0 0 16px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lean Digital · Brand Palette</h1>
+    <p class="lead">Übersicht der Markenfarben, Tailwind-Standards und Gradients von Lean Digital. Jede Kachel zeigt die Farbe und den zugehörigen Hexcode.</p>
+  </header>
+
+  <section>
+    <h2>🌿 Emerald (Marken-Grundfarbe)</h2>
+    <p class="section-note">Grundfarbe mit ihren Tailwind-Stufen und Einsatzbereichen.</p>
+    <div class="grid">
+      <div class="swatch">
+        <div class="tone" style="background:#ecfdf5"></div>
+        <div class="meta"><span class="title">Emerald 50</span><span class="hex">#ecfdf5</span><div class="desc">Gradients im MainSection-Highlight</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#d1fae5"></div>
+        <div class="meta"><span class="title">Emerald 100</span><span class="hex">#d1fae5</span><div class="desc">Kontakt-Badges</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#a7f3d0"></div>
+        <div class="meta"><span class="title">Emerald 200</span><span class="hex">#a7f3d0</span><div class="desc">Hover-Verlauf der Kontakt-Badges</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#6ee7b7"></div>
+        <div class="meta"><span class="title">Emerald 300</span><span class="hex">#6ee7b7</span><div class="desc">Reserve</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#34d399"></div>
+        <div class="meta"><span class="title">Emerald 400</span><span class="hex">#34d399</span><div class="desc">Hero-Claim, Textakzente</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#10b981"></div>
+        <div class="meta"><span class="title">Emerald 500</span><span class="hex">#10b981</span><div class="desc">Badge-Hintergründe, Floating-Stats</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#059669"></div>
+        <div class="meta"><span class="title">Emerald 600</span><span class="hex">#059669</span><div class="desc">CTA-Verläufe, Hover-Zustände</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#047857"></div>
+        <div class="meta"><span class="title">Emerald 700</span><span class="hex">#047857</span><div class="desc">Button-Hover, bevorzugte Aktions-Buttons</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#065f46"></div>
+        <div class="meta"><span class="title">Emerald 800</span><span class="hex">#065f46</span><div class="desc">Dunkler Verlauf im Hero</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#064e3b"></div>
+        <div class="meta"><span class="title">Emerald 900</span><span class="hex">#064e3b</span><div class="desc">Reserve</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>💠 Custom Markenfarben</h2>
+    <div class="grid">
+      <div class="swatch">
+        <div class="tone" style="background:#6EBDE2"></div>
+        <div class="meta"><span class="title">Custom Blue</span><span class="hex">#6EBDE2</span><div class="desc">Akzentfarbe, Logos, Overlays</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#ED78BD"></div>
+        <div class="meta"><span class="title">Custom Pink</span><span class="hex">#ED78BD</span><div class="desc">CTA-Verläufe, Analyse-Buttons</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#0778AC"></div>
+        <div class="meta"><span class="title">Custom Dark Blue</span><span class="hex">#0778AC</span><div class="desc">Text &amp; Icons in Rechnern</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>🧩 Logo-Farben</h2>
+    <div class="grid">
+      <div class="swatch">
+        <div class="tone" style="background:#84C79C"></div>
+        <div class="meta"><span class="title">Logo Jade</span><span class="hex">#84C79C</span><div class="desc">Teil des Marken-Icons</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#B397F8"></div>
+        <div class="meta"><span class="title">Logo Lavender</span><span class="hex">#B397F8</span><div class="desc">Logo-Quadrant für Partnerschaften</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#1e293b"></div>
+        <div class="meta"><span class="title">Logo Slate</span><span class="hex">#1e293b</span><div class="desc">Dunkler Hintergrund, Header</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>🧱 Tailwind Standardfarben (Auszug)</h2>
+    <div class="grid">
+      <div class="swatch">
+        <div class="tone" style="background:#64748b"></div>
+        <div class="meta"><span class="title">Slate 500</span><span class="hex">#64748b</span><div class="desc">Tailwind Slate</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#6b7280"></div>
+        <div class="meta"><span class="title">Gray 500</span><span class="hex">#6b7280</span><div class="desc">Tailwind Gray</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#3b82f6"></div>
+        <div class="meta"><span class="title">Blue 500</span><span class="hex">#3b82f6</span><div class="desc">Tailwind Blue</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#06b6d4"></div>
+        <div class="meta"><span class="title">Cyan 500</span><span class="hex">#06b6d4</span><div class="desc">Tailwind Cyan</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#ec4899"></div>
+        <div class="meta"><span class="title">Pink 500</span><span class="hex">#ec4899</span><div class="desc">Tailwind Pink</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#8b5cf6"></div>
+        <div class="meta"><span class="title">Purple 500</span><span class="hex">#8b5cf6</span><div class="desc">Tailwind Purple</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#16a34a"></div>
+        <div class="meta"><span class="title">Green 600</span><span class="hex">#16a34a</span><div class="desc">Tailwind Green</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#ef4444"></div>
+        <div class="meta"><span class="title">Red 500</span><span class="hex">#ef4444</span><div class="desc">Tailwind Red</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#eab308"></div>
+        <div class="meta"><span class="title">Yellow 600</span><span class="hex">#eab308</span><div class="desc">Tailwind Yellow</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#ffffff"></div>
+        <div class="meta"><span class="title">White</span><span class="hex">#ffffff</span><div class="desc">Basis Weiß</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone" style="background:#000000"></div>
+        <div class="meta"><span class="title">Black</span><span class="hex">#000000</span><div class="desc">Basis Schwarz</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>🌈 Gradient-Palette (nach Einsatz)</h2>
+    <p class="section-note">Jede Karte zeigt Start- und Endfarbe des Verlaufs.</p>
+    <div class="grid">
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#059669;--to:#0891B2"></div>
+        <div class="meta"><span class="title">Main Claim &amp; Footer CTA</span><span class="hex">#059669 → #0891B2</span><div class="desc">Grün → Cyan · Richtung: → Rechts</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#f8fafc;--to:#ecfdf5"></div>
+        <div class="meta"><span class="title">MainSection Bühne &amp; Team-Panel</span><span class="hex">#f8fafc → #ecfdf5</span><div class="desc">Hellgrau → Mint · Richtung: ↘ Rechts unten</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#059669;--to:#047857"></div>
+        <div class="meta"><span class="title">Hero AGB / Datenschutz / Impressum</span><span class="hex">#059669 → #047857</span><div class="desc">Grünverlauf · Richtung: ↓ Unten</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#f9fafb;--to:#f3f4f6"></div>
+        <div class="meta"><span class="title">404 &amp; Toolbox-Hintergrund</span><span class="hex">#f9fafb → #f3f4f6</span><div class="desc">Hellgrau Verlauf · Richtung: ↘ Rechts unten</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#0778AC;--to:#6EBDE2"></div>
+        <div class="meta"><span class="title">Toolbox-Buttons &amp; Überschriften</span><span class="hex">#0778AC → #6EBDE2</span><div class="desc">Dunkelblau → Hellblau · Richtung: → Rechts</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="background: linear-gradient(135deg, #1e293b, #334155, #065f46);"></div>
+        <div class="meta"><span class="title">Landing &amp; Unternehmens-Hero</span><span class="hex">#1e293b → #334155 → #065f46</span><div class="desc">Dunkel → Grün · Richtung: ↘ Rechts unten</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#34d399;--to:#22d3ee"></div>
+        <div class="meta"><span class="title">Text-Highlight „Lean“ &amp; „Leanius“</span><span class="hex">#34d399 → #22d3ee</span><div class="desc">Smaragd → Cyan · Richtung: → Rechts</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#ec4899;--to:#9333ea"></div>
+        <div class="meta"><span class="title">Hero CTA &amp; Header-Kontaktlinks</span><span class="hex">#ec4899 → #9333ea</span><div class="desc">Pink → Violett · Richtung: → Rechts</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#10b981;--to:#06b6d4"></div>
+        <div class="meta"><span class="title">Formular-Submit Button</span><span class="hex">#10b981 → #06b6d4</span><div class="desc">Smaragd → Cyan · Richtung: → Rechts</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#6EBDE2;--to:#ED78BD"></div>
+        <div class="meta"><span class="title">Overlay / Notification Banner</span><span class="hex">#6EBDE2 → #ED78BD</span><div class="desc">Hellblau → Pink · Richtung: → Rechts</div></div>
+      </div>
+      <div class="swatch">
+        <div class="tone gradient" style="--from:#ecfdf5;--to:#ffffff"></div>
+        <div class="meta"><span class="title">Kontakt- &amp; Pilotprogramm-Seiten</span><span class="hex">#ecfdf5 → #ffffff</span><div class="desc">Mint → Weiß · Richtung: ↓ Unten</div></div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
