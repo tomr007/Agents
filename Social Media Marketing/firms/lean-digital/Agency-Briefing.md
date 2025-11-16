@@ -75,6 +75,12 @@ Die Social‑Media‑Kommunikation soll eine Themenwelt etablieren, die **Leaniu
 9. **Veränderung beginnt mit Respekt.**
 10. Wir challengen Annahmen, respektieren aber die Leistung, die sie hervorgebracht hat.
 
+### 1.6 Beratungsprinzipien für Lean‑Digital‑Projekte
+
+1. **Digitalisierung auf stabilen Prozessen aufsetzen.** Erst wenn Wertströme mit Lean Thinking stabilisiert, vereinfacht und verschwendungsfrei gestaltet sind, entfaltet Technologie ihre volle Wirkung – ohne unnötige Komplexität oder digitale Verschwendung.
+2. **Technologische Komplexität reduzieren.** Wir gestalten Prozess‑ und Systemarchitekturen so klar, interoperabel und resilient, dass sie leicht steuerbar bleiben. Das schützt vor teuren Fehlentscheidungen, Überautomatisierung und Abhängigkeiten von einzelnen Technologieanbietern.
+3. **Kulturelle Akzeptanz sichern.** Unser Beratungsansatz und Framework befähigen Führungskräfte und Teams, neue Technologien sinnvoll anzuwenden. So entstehen Vertrauen, Kompetenz und echte Wertschöpfung statt Überforderung oder Widerstand.
+
 ## 2. Kommunikative Leitplanken & Signature Moves
 
 **Übergang**  
