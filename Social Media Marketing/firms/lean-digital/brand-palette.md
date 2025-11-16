@@ -4,6 +4,13 @@ Diese Datei enthält alle Marken-, Tailwind-Standardfarben und UI-Verläufe von 
 
 ---
 
+## 🖤 Standard Background Color
+| Name | Hex | Beschreibung |
+|------|------|--------------|
+| Standard Background | `#04343E` | Primärer Hintergrund auf Dark Surfaces |
+
+---
+
 ## 🌿 Emerald (Marken-Grundfarbe)
 | Stufe | Hex | Beschreibung |
 |-------|------|--------------|
