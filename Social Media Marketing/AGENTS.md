@@ -32,4 +32,7 @@ Social Media Marketing Agents → Social Media Marketing/AGENTS.md
 - **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner folgt)
 - **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Kampagnen-Roadmap in Umsetzung)
 
+## Ablagehinweis Kampagnen
+In den Ordnern `firms/<firmenname>/Kampagnen/` liegen die jeweiligen Kampagnen-Briefings.
+
 Jede Datei beschreibt Mission, Input, Output und Verhalten des Agenten. Binde bei Bedarf zusätzliche Kontextinformationen aus deinem Projekt ein, wenn du den Agenten ansprichst.
