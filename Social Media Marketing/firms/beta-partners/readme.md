@@ -5,7 +5,7 @@
 ## Stammdaten
 - **Firma:** Beta Partners
 - **Primärer Ansprechpartner:** TBD (TBD)
-- **Letzte Aktualisierung:** 2025-05-21
+- **Letzte Aktualisierung:** 2025-11-18
 
 ## Dokumente
 
@@ -19,3 +19,4 @@
 - Ergänze neue Einträge ausschließlich nach dem Anlegen der jeweiligen Markdown-Datei.
 - Pflege den Stand mit ISO-Datum (`YYYY-MM-DD`) oder einem klaren Statushinweis.
 - Entferne veraltete Zeilen, wenn zugehörige Dateien archiviert oder gelöscht werden.
+- Spiegele jede inhaltliche Änderung zusätzlich im übergeordneten `Social Media Marketing/AGENTS.md` und dokumentiere sie hier im Readme mit Datum.
