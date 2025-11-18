@@ -120,7 +120,32 @@ Diese Signature-Sätze sollten in Posts, Sales-Decks und Website-Texten wiederke
 
 ---
 
-## 4. Content-Matrix (Kanäle & Formate)
+## 4. Website-Statements & Use Case
+
+### Statements für die Website
+
+* **„Vom Excel-Chaos zur steuerbaren Produktion in Wochen.“** – macht die Zeitachse und den Nutzen klar.
+* **„Echtzeit-Sicht statt Suchzeiten.“** – adressiert die Transparenzanforderung der Shopfloor-Rollen.
+* **„Ihre Prozesse sind der Standard – nicht die Software.“** – stützt die Positionierung gegen Standardsoftware.
+* **„Digitale Architektur, die wirkt – ohne Großprojekt.“** – verbindet Wirkung, Tempo und risikoarmen Ansatz.
+
+### Web-Use-Case (Schulte Elektrotechnik)
+
+**Ausgangssituation:** Schulte Elektrotechnik steuerte den Wareneingang und die Materialverfügbarkeit mit einer Excel-Lösung, die weder skalierte noch zuverlässige Daten lieferte. Medienbrüche zu SAP, fehlende Transparenz im Lager und hohe manuelle Aufwände blockierten den täglichen Betrieb.
+
+**Lösung:** Lean-Digital entwickelte in wenigen Wochen eine integrierte, rollenbasierte Shopfloor-App mit Echtzeit-Bestands- und Baugruppenübersicht, digitaler Wareneingangslogik sowie Ampel- und Prioritätensteuerung für Logistik, Schichtleitung und Montage. Mobile Endgeräte ersetzten Papier und ermöglichten klare Prozesssignale.
+
+**Wirkung für Schulte Elektrotechnik:**
+
+* Entlastung des Wareneingangs und deutlich reduzierte Suchzeiten in Lager und Verteilzentrum.
+* Schichtleitung erkennt sofort, welche Baugruppen bereitstehen und welche Teile fehlen.
+* Datenqualität steigt, eine Logistiker-Stelle kann für wertschöpfende Aufgaben genutzt werden.
+
+**Call-to-Action auf der Website:** „Jetzt Prozess-Steuerbarkeit demonstrieren lassen“ mit Verweis auf eine kurze Demo des Wareneingangs- und Missing-Parts-Dashboards.
+
+---
+
+## 5. Content-Matrix (Kanäle & Formate)
 
 ### **LinkedIn-Serie (8 Beiträge)**
 
@@ -179,7 +204,7 @@ Thema: *„Produktion ohne digitale Verschwendung: Wie Sie in Wochen echte Trans
 
 ---
 
-## 5. Funnel-Design
+## 6. Funnel-Design
 
 ### **Awareness**
 
@@ -203,7 +228,7 @@ Thema: *„Produktion ohne digitale Verschwendung: Wie Sie in Wochen echte Trans
 
 ---
 
-## 6. Visuelle Leitidee
+## 7. Visuelle Leitidee
 
 **„Von Suchzeiten zu Sichtbarkeit.“**
 
@@ -213,7 +238,7 @@ Thema: *„Produktion ohne digitale Verschwendung: Wie Sie in Wochen echte Trans
 
 ---
 
-## 7. Argumentationslinien (Sales)
+## 8. Argumentationslinien (Sales)
 
 * „Wir ersetzen nicht SAP – wir entlasten Ihre Produktion.“
 * „Ihre Prozesse sind der Standard – nicht die Software.“
@@ -222,7 +247,7 @@ Thema: *„Produktion ohne digitale Verschwendung: Wie Sie in Wochen echte Trans
 
 ---
 
-## 8. Next Steps (intern)
+## 9. Next Steps (intern)
 
 * Screenshots / Mockups sammeln
 * Interview mit Werks- oder Produktionsleitung sichern
@@ -231,7 +256,7 @@ Thema: *„Produktion ohne digitale Verschwendung: Wie Sie in Wochen echte Trans
 
 ---
 
-## 9. Personas
+## 10. Personas
 
 ### **Persona A – „Excel-Verantwortliche unter Druck“**
 
@@ -316,7 +341,7 @@ Thema: *„Produktion ohne digitale Verschwendung: Wie Sie in Wochen echte Trans
 
 ---
 
-## 10. Offene Punkte für das Finetuning für das Finetuning
+## 11. Offene Punkte für das Finetuning für das Finetuning
 
 1. Soll der Use Case anonymisiert werden oder mit Logo des Kunden?
 2. Brauchen wir ein Testimonial-Video?

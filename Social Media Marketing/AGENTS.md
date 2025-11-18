@@ -41,3 +41,6 @@ Jede Datei beschreibt Mission, Input, Output und Verhalten des Agenten. Binde be
 
 ## Dokumentationspflicht
 - Jede inhaltliche Überarbeitung (neue Dateien, Statuswechsel, Ansprechpartner, Löschungen) muss sowohl hier im `AGENTS.md` als auch im jeweiligen Firmen-`readme.md` vermerkt werden.
+
+### Änderungslog
+- 2026-02-25: `firms/lean-digital/Kampagnen/Kampagne_Schulte.md` um Website-Statements und Web-Use-Case ergänzt; Dokumentübersicht in `firms/lean-digital/readme.md` aktualisiert.
