@@ -128,6 +128,7 @@ Diese 10 Kernsätze sollen in jeder Kommunikation als wiederkehrende sprachliche
 - **Alles beginnt mit einem stabilen Prozess.** → Nutze den Satz als Opener, um Lean als Startpunkt für jede Optimierung zu verankern.
 - **Komplexe Produktion? Wir bringen sie ins Fließen.** → Ideal für Pain-Point-Posts und Ads, die Unruhe in Fertigungssystemen adressieren.
 - **Produktivität ist die Basis echter Wettbewerbsfähigkeit.** → Verwende ihn für Executive-Kommentare und Strategie-Statements.
+- **Echte Produktivität entsteht, wenn Wirkung wächst und Belastung sinkt.** → Setze ihn ein, um den Nutzen von Entlastung und Wirkung zu verbinden.
 - **Weniger Theorie. Mehr Wirkung auf dem Shopfloor.** → Perfekt für Praxisbeispiele, Workshop-Recaps und Event-Teaser.
 - **Digitalisierung ohne Systembruch.** → Setze den Claim bei Tech-Posts und in Produktbeschreibungen ein.
 - **Wir challengen Annahmen – mit Respekt für das Bestehende.** → Nutze den Satz, wenn Change-Kompetenz und Kulturarbeit thematisiert werden.
