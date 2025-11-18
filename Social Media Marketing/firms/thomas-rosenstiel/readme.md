@@ -5,7 +5,7 @@
 ## Stammdaten
 - **Firma:** Thomas Rosenstiel
 - **Primärer Ansprechpartner:** NN (Strategie)
-- **Letzte Aktualisierung:** 2025-11-14
+- **Letzte Aktualisierung:** 2025-11-18
 
 ## Dokumente
 
@@ -19,3 +19,4 @@
 - Ergänze neue Einträge ausschließlich nach dem Anlegen der jeweiligen Markdown-Datei.
 - Pflege den Stand mit ISO-Datum (`YYYY-MM-DD`) oder einem klaren Statushinweis.
 - Entferne veraltete Zeilen, wenn zugehörige Dateien archiviert oder gelöscht werden.
+- Spiegele jede inhaltliche Änderung zusätzlich im `Social Media Marketing/AGENTS.md` und vermerke Datum sowie Status hier im Readme.

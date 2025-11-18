@@ -28,11 +28,16 @@ Social Media Marketing Agents → Social Media Marketing/AGENTS.md
 - **[videographer](videographer.md)** – starte mit: "Übernimm die Rolle des Videographers und …"
 - **[workflows](workflows.md)** – starte mit: "Übernimm die Rolle des Workflow-Koordinators und …"
 
-## Neue Firmenzugänge (Stand 2025-11-02)
+## Neue Firmenzugänge (Stand 2025-11-18)
+- **Beta Partners** → `firms/beta-partners/readme.md` (Onboarding-Übersicht, Ansprechpartner ausstehend)
 - **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner folgt)
 - **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Kampagnen-Roadmap in Umsetzung)
+- **Thomas Rosenstiel** → `firms/thomas-rosenstiel/readme.md` (Neues Einzelmandat, Briefings als Templates angelegt)
 
 ## Ablagehinweis Kampagnen
 In den Ordnern `firms/<firmenname>/Kampagnen/` liegen die jeweiligen Kampagnen-Briefings.
 
 Jede Datei beschreibt Mission, Input, Output und Verhalten des Agenten. Binde bei Bedarf zusätzliche Kontextinformationen aus deinem Projekt ein, wenn du den Agenten ansprichst.
+
+## Dokumentationspflicht
+- Jede inhaltliche Überarbeitung (neue Dateien, Statuswechsel, Ansprechpartner, Löschungen) muss sowohl hier im `AGENTS.md` als auch im jeweiligen Firmen-`readme.md` vermerkt werden.

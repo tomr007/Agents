@@ -7,7 +7,7 @@ Dieses Readme bündelt den aktuellen Dokumentenbestand, Statusstände und den em
 ## Stammdaten
 - **Firma:** Lean Digital GmbH
 - **Primärer Ansprechpartner:** NN (Strategie)
-- **Letzte Aktualisierung:** 2025-11-05
+- **Letzte Aktualisierung:** 2025-11-18
 
 ## Dokumente
 
@@ -28,6 +28,7 @@ Dieses Readme bündelt den aktuellen Dokumentenbestand, Statusstände und den em
 - Ergänze neue Zeilen ausschließlich für Dateien, die in diesem Ordner existieren.
 - Pflege den Stand mit ISO-Datum (`YYYY-MM-DD`) oder einem klaren Statushinweis.
 - Entferne veraltete Zeilen, sobald zugehörige Dateien archiviert oder gelöscht werden.
+- Trage jede Überarbeitung parallel im `Social Media Marketing/AGENTS.md` nach und halte in diesem Readme das Änderungsdatum fest.
 
 ## Nutzungshinweise für Agenten
 ### Strategen & Planner
