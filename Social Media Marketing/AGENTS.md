@@ -44,3 +44,4 @@ Jede Datei beschreibt Mission, Input, Output und Verhalten des Agenten. Binde be
 
 ### Änderungslog
 - 2026-02-25: `firms/lean-digital/Kampagnen/Kampagne_Schulte.md` um Website-Statements und Web-Use-Case ergänzt; Dokumentübersicht in `firms/lean-digital/readme.md` aktualisiert.
+- 2026-02-26: `firms/lean-digital/Kampagnen/Kampagne_Schulte.md` um User-Kommentar-Freigaben ergänzt; Stand in `firms/lean-digital/readme.md` angepasst.
