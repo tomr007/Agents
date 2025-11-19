@@ -129,6 +129,12 @@ Diese Signature-Sätze sollten in Posts, Sales-Decks und Website-Texten wiederke
 * **„Ihre Prozesse sind der Standard – nicht die Software.“** – stützt die Positionierung gegen Standardsoftware.
 * **„Digitale Architektur, die wirkt – ohne Großprojekt.“** – verbindet Wirkung, Tempo und risikoarmen Ansatz.
 
+### User-Kommentare & Freigaben
+
+* Sammle authentische Kurzstatements von Anwender:innen (Logistik, Schichtleitung, Montage), die den wahrgenommenen Unterschied beschreiben (z. B. „Wir finden fehlende Teile jetzt in Minuten.“).
+* Sichere dir für jedes Statement eine schriftliche Zustimmung von Schulte Elektrotechnik zur öffentlichen Nutzung (Website, Sales-PDF, Social Posts) inkl. Namensnennung oder Funktionsbezeichnung.
+* Hinterlege Freigabequelle und Datum im Content-Asset, damit das Publishing-Team die rechtliche Nutzung jederzeit nachweisen kann.
+
 ### Web-Use-Case (Schulte Elektrotechnik)
 
 **Ausgangssituation:** Schulte Elektrotechnik steuerte den Wareneingang und die Materialverfügbarkeit mit einer Excel-Lösung, die weder skalierte noch zuverlässige Daten lieferte. Medienbrüche zu SAP, fehlende Transparenz im Lager und hohe manuelle Aufwände blockierten den täglichen Betrieb.

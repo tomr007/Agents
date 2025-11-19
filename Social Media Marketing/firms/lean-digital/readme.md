@@ -23,7 +23,7 @@ Dieses Readme bündelt den aktuellen Dokumentenbestand, Statusstände und den em
 | [Content Alignment Checkliste.md](Content%20Alignment%20Checkliste.md) | Qualitäts- und Konsistenz-Checkliste für alle Veröffentlichungen | Arbeitsstand 2025-02-14 |
 | [moodboard-thomasR.md](moodboard-thomasR.md) | Visuelles Leitdokument für Thomas Rosenstiel inkl. Marken-Subcodes & Style-Tokens | Version 2.0 – 2025-10-31 |
 | [research-log.md](research-log.md) | Quellen, Markt-Insights, Hypothesen & Entscheidungen | Template – fortschreiben |
-| [Kampagnen/Kampagne_Schulte.md](Kampagnen/Kampagne_Schulte.md) | Kampagnenbriefing inkl. Website-Statements & Use Case | Aktualisiert 2026-02-25 |
+| [Kampagnen/Kampagne_Schulte.md](Kampagnen/Kampagne_Schulte.md) | Kampagnenbriefing inkl. Website-Statements & Use Case | Aktualisiert 2026-02-26 |
 
 ## Aktualisierung
 - Ergänze neue Zeilen ausschließlich für Dateien, die in diesem Ordner existieren.
