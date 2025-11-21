@@ -1,5 +1,5 @@
 # 📊 Keyword-Longlist nach Persona & Nische  
-_Basis: Agency-Briefing Lean Digital GmbH – erstellt von @SEO-Planner_  
+_Basis: Agentur-Briefing Lean Digital GmbH – erstellt von @SEO-Planner_  
 
 Diese Longlist kombiniert die drei Ziel-Nischen **Auftragsfertigung**, **Automotive-Zulieferer** und **Make-to-Order-Fertigung** mit den drei Haupt-Personas:  
 **Geschäftsführer/CEO**, **Produktionsleiter/Werksleiter** und **IT-/Digitalisierungsleiter**.  
@@ -128,7 +128,7 @@ Sie dient als Ausgangsbasis für die Priorisierung nach Suchvolumen und Wettbewe
 ---
 
 ## 💡 Hinweis
-Diese Longlist deckt strategische, operative und technische Suchbegriffe ab, die direkt aus dem Agency-Briefing stammen (z. B. *Lean-Digital Pilot*, *First-Principles Thinking*, *Minimal-invasive Integration*, *Fair-Use Partnership*).  
+Diese Longlist deckt strategische, operative und technische Suchbegriffe ab, die direkt aus dem Agentur-Briefing stammen (z. B. *Lean-Digital Pilot*, *First-Principles Thinking*, *Minimal-invasive Integration*, *Fair-Use Partnership*).  
 
 Nutze sie als Grundlage für:
 - Keyword-Analyse (Suchvolumen, Wettbewerb)  

@@ -42,7 +42,7 @@ Effiziente Erstellung und Planung von Inhalten (Texte, Bilder, Posts) auf Basis 
 | Kategorie | Beispielinhalt | Gespeichert als |
 |------------|----------------|----------------|
 | Readme | Index, Dokumentenstand | `firms/<slug>/readme.md` |
-| Firma | Agenturbriefing & Markenplattform | `firms/<slug>/Agency-Briefing.md`, `firms/<slug>/company-profile.md` |
+| Firma | Agenturbriefing & Markenplattform | `firms/<slug>/Agentur-Briefing.md`, `firms/<slug>/company-profile.md` |
 | Produkte/Services | Nutzen, Proof-Points | `firms/<slug>/product-<slug>.md` bzw. `firms/<slug>/service-<slug>.md` |
 | Nische | Angebots-Zuordnung, Marktdynamik | `firms/<slug>/niche-<slug>.md` |
 | Persona | Profil, Needs, Kanal-Keywords | `firms/<slug>/persona-<slug>.md` |

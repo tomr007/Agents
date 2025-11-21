@@ -1,4 +1,4 @@
-# Agency‑Briefing – Lean Digital GmbH (Leanius)
+# Agentur-Briefing – Lean Digital GmbH (Leanius)
 
 ## 1. Strategische Grundlage
 
