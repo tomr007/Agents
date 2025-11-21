@@ -11,7 +11,7 @@
 
 | Datei | Inhalt | Stand |
 |-------|--------|-------|
-| [Agency-Briefing.md](Agency-Briefing.md) | Stammdaten, Vision, Ansprechpartner, operative Eckdaten | Template – befüllen |
+| [Agentur-Briefing.md](Agentur-Briefing.md) | Stammdaten, Vision, Ansprechpartner, operative Eckdaten | Template – befüllen |
 | [company-profile.md](company-profile.md) | Markenwerte, Nutzenversprechen, Tonalität & Proof-Points | Template – befüllen |
 | [research-log.md](research-log.md) | Quellen, Insights, Entscheidungen & Folgeaktionen | Template – fortschreiben |
 

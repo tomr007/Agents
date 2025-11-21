@@ -13,7 +13,7 @@ Dieses Readme bündelt den aktuellen Dokumentenbestand, Statusstände und den em
 
 | Datei | Inhalt | Stand |
 |-------|--------|-------|
-| [Agency-Briefing.md](Agency-Briefing.md) | Vollständiges Agenturbriefing inkl. Positionierung, Signature Moves & Content-Pfeiler | Arbeitsstand 2025-10-31 |
+| [Agentur-Briefing.md](Agentur-Briefing.md) | Vollständiges Agenturbriefing inkl. Positionierung, Signature Moves & Content-Pfeiler | Arbeitsstand 2025-10-31 |
 | [company-profile.md](company-profile.md) | Markenwerte, Nutzenversprechen, Tonalität & Proof-Points | Template – befüllen |
 | [brand-palette.md](brand-palette.md) | Farb- und Typografie-Definitionen, Bildstil & Gestaltungsregeln | Draft v0.1 – 2025-10-31 |
 | [Kommunikatoren Profile.md](Kommunikatoren%20Profile.md) | LinkedIn-Kommunikatoren-Personas (Kay, Thomas R., Thomas S., Erik) | Arbeitsstand 2025-10-31 |
@@ -33,8 +33,8 @@ Dieses Readme bündelt den aktuellen Dokumentenbestand, Statusstände und den em
 
 ## Nutzungshinweise für Agenten
 ### Strategen & Planner
-1. Startet mit dem [Agency-Briefing.md](Agency-Briefing.md), um Positionierung, Zielgruppen und Signature Moves zu verinnerlichen.
-2. Pflegt Stammdaten, Ansprechpartner und Freigaben direkt in [Agency-Briefing.md](Agency-Briefing.md); verweist bei Änderungen auf Datum und Quelle.
+1. Startet mit dem [Agentur-Briefing.md](Agentur-Briefing.md), um Positionierung, Zielgruppen und Signature Moves zu verinnerlichen.
+2. Pflegt Stammdaten, Ansprechpartner und Freigaben direkt in [Agentur-Briefing.md](Agentur-Briefing.md); verweist bei Änderungen auf Datum und Quelle.
 3. Nutzt [research-log.md](research-log.md) als zentrales Nachschlagewerk für Markt- und Persona-Insights und übernehmt verifizierte Erkenntnisse nach Review in [Persona-Niche-Matrix.md](Persona-Niche-Matrix.md) sowie [keyword-liste.md](keyword-liste.md).
 4. Aktualisiert die [Social Media Themenplanung Q425](Social%20Media%20Themenplanung%20Q425) nur nach Abstimmung mit Writer und Publishing; dokumentiert jede Planänderung (Datum, Verantwortliche:r, Grund).
 

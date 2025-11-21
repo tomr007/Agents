@@ -11,7 +11,7 @@
 
 | Datei | Inhalt | Stand |
 |-------|--------|-------|
-| [Agency-Briefing.md](Agency-Briefing.md) | Überblick über Struktur, Angebot und Prioritäten von Beta Partners. | Draft 2025-05-21 |
+| [Agentur-Briefing.md](Agentur-Briefing.md) | Überblick über Struktur, Angebot und Prioritäten von Beta Partners. | Draft 2025-05-21 |
 | [company-profile.md](company-profile.md) | Markenplattform mit Werten, Positionierung und Proof-Points. | Draft 2025-05-21 |
 | [research-log.md](research-log.md) | Sammellogbuch für Recherchen, Hypothesen und Entscheidungen. | Draft 2025-05-21 |
 
