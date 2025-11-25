@@ -33,6 +33,7 @@ Social Media Marketing Agents → Social Media Marketing/AGENTS.md
 - **Excalibur** → `firms/excalibur/readme.md` (Onboarding gestartet, Ansprechpartner folgt)
 - **Lean Digital** → `firms/lean-digital/readme.md` (Bestandskunde, Kampagnen-Roadmap in Umsetzung)
 - **Thomas Rosenstiel** → `firms/thomas-rosenstiel/readme.md` (Neues Einzelmandat, Briefings als Templates angelegt)
+- **Mein Malbuch** → `firms/mein-malbuch/readme.md` (Neu angelegt, Ansprechpartner offen)
 
 ## Ablagehinweis Kampagnen
 In den Ordnern `firms/<firmenname>/Kampagnen/` liegen die jeweiligen Kampagnen-Briefings.
@@ -45,3 +46,4 @@ Jede Datei beschreibt Mission, Input, Output und Verhalten des Agenten. Binde be
 ### Änderungslog
 - 2026-02-25: `firms/lean-digital/Kampagnen/Kampagne_Schulte.md` um Website-Statements und Web-Use-Case ergänzt; Dokumentübersicht in `firms/lean-digital/readme.md` aktualisiert.
 - 2026-02-26: `firms/lean-digital/Kampagnen/Kampagne_Schulte.md` um User-Kommentar-Freigaben ergänzt; Stand in `firms/lean-digital/readme.md` angepasst.
+- 2026-03-12: Neuer Firmenarbeitsraum `firms/mein-malbuch/readme.md` angelegt und in dieser Übersicht vermerkt.
