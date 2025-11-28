@@ -29,7 +29,7 @@ Dieses Readme bündelt den aktuellen Dokumentenbestand, Statusstände und den em
 - Ergänze neue Zeilen ausschließlich für Dateien, die in diesem Ordner existieren.
 - Pflege den Stand mit ISO-Datum (`YYYY-MM-DD`) oder einem klaren Statushinweis.
 - Entferne veraltete Zeilen, sobald zugehörige Dateien archiviert oder gelöscht werden.
-- Trage jede Überarbeitung parallel im `Social Media Marketing/AGENTS.md` nach und halte in diesem Readme das Änderungsdatum fest.
+- Trage jede Überarbeitung parallel im `Social Media Marketing/marketing-agents.md` nach und halte in diesem Readme das Änderungsdatum fest.
 
 ## Nutzungshinweise für Agenten
 ### Strategen & Planner
