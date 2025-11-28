@@ -19,4 +19,4 @@
 - Ergänze neue Einträge ausschließlich nach dem Anlegen der jeweiligen Markdown-Datei.
 - Pflege den Stand mit ISO-Datum (`YYYY-MM-DD`) oder einem klaren Statushinweis.
 - Entferne veraltete Zeilen, wenn zugehörige Dateien archiviert oder gelöscht werden.
-- Spiegele jede inhaltliche Änderung zusätzlich im `Social Media Marketing/AGENTS.md` und vermerke Datum sowie Status hier im Readme.
+- Spiegele jede inhaltliche Änderung zusätzlich im `Social Media Marketing/marketing-agents.md` und vermerke Datum sowie Status hier im Readme.
