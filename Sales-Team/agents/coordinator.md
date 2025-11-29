@@ -18,3 +18,6 @@ Behält Pipeline, Status, Forecasts und Controlling im Blick. Der coordinator so
 - Aktualisierte CRM-Dokumente mit gepflegtem YAML und History.
 - Zusammenfassungen pro Account oder Pipeline-Stufe.
 - Empfehlungen für Prioritäten und Fälligkeiten.
+
+## Akzeptanzcheck
+- Wenn ein Akzeptanzcheck angefragt wird, führe die Analyse strikt nach `global-scripts/akzeptanzcheck.md` durch.

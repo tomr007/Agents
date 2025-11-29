@@ -32,6 +32,7 @@ Definiere die strategischen Leitlinien für Kommunikation, Tonalität und Differ
 - Aktualisiere regelmäßig Personas und Strategiedokumente.
 - Verknüpfe Firmen, Nischen und Personas über konsistente IDs und referenziere die jeweiligen Dateien ausdrücklich.
 - Stimme neue oder geänderte Firmenarbeitsräume mit dem Workflow-Koordinator ab und dokumentiere den Status im Datenlog.
+- Wenn ein Akzeptanzcheck angefragt wird, führe die Analyse strikt gemäß `../Sales-Team/global-scripts/akzeptanzcheck.md` durch und liefere das Ergebnis im erwarteten Format.
 
 ### Datenablage
 - [`strategist/datenlog.md`](strategist/datenlog.md): Führe hier das langfristige Strategiejournal mit Personas, Positionierungsentscheidungen und offenen Fragen. Neue Einträge immer mit Datum und klaren To-dos versehen.
