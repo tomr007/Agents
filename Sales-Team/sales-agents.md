@@ -13,3 +13,4 @@ Das Sales-Team übernimmt alle Anfragen rund um Leads, Deals, Pipeline und CRM. 
 ## Ressourcen
 - Detaillierte Rollenprofile: `agents/coordinator.md`, `agents/coach.md`
 - Team-Übersicht & CRM-Struktur: `README.md`
+- Akzeptanzcheck-Standard: `global-scripts/akzeptanzcheck.md` (bei jeder Bitte um einen Akzeptanzcheck muss die dort beschriebene Analyse geliefert werden)

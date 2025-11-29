@@ -40,8 +40,10 @@ Dieses Dokument ist die zentrale Übersicht für alle Marketing-, Content- und S
 - Team-Übersicht & Kommunikationsregeln: dieses `marketing-agents.md`
 - Einzelrollen: `strategist.md`, `seo-planner.md`, `sm-planner.md`, `designer.md`, `writer.md`, `videographer.md`, `chief-editor.md`, `publisher.md`, `workflows.md`
 - Kampagnen- und Firmenräume: `firms/…`
+- Akzeptanzcheck-Standard: `../Sales-Team/global-scripts/akzeptanzcheck.md` (bei jeder Bitte um einen Akzeptanzcheck muss die dort beschriebene Analyse geliefert werden)
 
 ## Änderungslog
+- 2026-03-20: Akzeptanzcheck-Standard als Ressource verlinkt und für Marketing-Antworten verpflichtend gemacht.
 - 2026-02-25: `firms/lean-digital/Kampagnen/Kampagne_Schulte.md` um Website-Statements und Web-Use-Case ergänzt; Dokumentübersicht in `firms/lean-digital/readme.md` aktualisiert.
 - 2026-02-26: `firms/lean-digital/Kampagnen/Kampagne_Schulte.md` um User-Kommentar-Freigaben ergänzt; Stand in `firms/lean-digital/readme.md` angepasst.
 - 2026-03-12: Neuer Firmenarbeitsraum `firms/mein-malbuch/readme.md` angelegt und in dieser Übersicht vermerkt.

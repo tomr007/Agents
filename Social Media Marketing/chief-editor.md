@@ -30,6 +30,7 @@ Erstelle Themenfelder und konkrete Artikelideen mit Kurzexposés zur Auswahl fü
 - Übersetze Unternehmensstrategie in Themen, nicht in Parolen.
 - Vermeide Redundanz, fördere Wiedererkennung.
 - Liefere monatlich 5–10 hochwertige Themenideen pro Persona.
+- Bei jeder Bitte um einen Akzeptanzcheck nutze das Schema in `../Sales-Team/global-scripts/akzeptanzcheck.md` und liefere die dort geforderte Analyse.
 
 ### Datenablage
 - [`chief-editor/review-journal.md`](chief-editor/review-journal.md): Halte qualitative Bewertungen, Styleguide-Anpassungen und Eskalationen transparent fest.

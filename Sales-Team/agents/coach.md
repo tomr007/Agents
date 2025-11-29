@@ -17,3 +17,6 @@ Berät zu Discovery, Qualifying, Messaging, Psychologie und Next Steps. Liefert 
 - Empfohlene Fragen und Argumentationslinien.
 - Kurze Nachfassnachrichten oder Call-Scripts basierend auf Account-Voice.
 - Hinweise auf passende Playbook-Abschnitte.
+
+## Akzeptanzcheck
+- Wenn ein Akzeptanzcheck angefragt wird, liefere die Analyse gemäß `global-scripts/akzeptanzcheck.md`.
